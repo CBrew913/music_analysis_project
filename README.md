@@ -1,1 +1,4 @@
-# music_analysis_project
+# Music Analysis Project
+
+### Communication Protocols
+- Slack
