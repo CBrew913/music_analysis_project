@@ -28,3 +28,4 @@ Database (Circle)- Bennett
 Technologies (X) – Daniel
 - [ ] Determine technologies used for the final project
 - [ ] Commit standards of technology to GitHub
+
