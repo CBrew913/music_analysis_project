@@ -1,5 +1,8 @@
 # Music Analysis Project
 
+This is the final project for KU Data Analytics Bootcamp
+
+
    ## Roles
    | Name  | Role | Responsibilities|
    | --- | --- | --- |
