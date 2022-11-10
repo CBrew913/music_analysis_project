@@ -12,11 +12,11 @@
    ## Roles
    | Name  | Role | Responsibilities|
    | --- | --- | --- |
-   | Julie McDaniel  | Project Manager | Manage the product communication, presentation and visualization|
-   | Caleb Brewer  | Dashboard Lead | Manage the GitHub account and perform ETL on databases|
-   | Bennett Lawrence  | Database Lead | Responsible for pulling database information from API|
-   | Teresa Hartment  | Machine Learning Lead | Manage the machine learning model|
-   | Danny Johnson  | Technology Lead | Manage the technology used and performing SQL queries|
+   | [Julie McDaniel](https://github.com/JuMcDaniel)  | Project Manager | Manage the product communication, presentation and visualization|
+   | [Caleb Brewer](https://github.com/CBrew913)  | Dashboard Lead | Manage the GitHub account and perform ETL on databases|
+   | [Bennett Lawrence](https://github.com/bhlawrence)  | Database Lead | Responsible for pulling database information from API|
+   | [Teresa Hartment](https://github.com/TeresaHartman)  | Machine Learning Lead | Manage the machine learning model|
+   | [Danny Johnson](https://github.com/DannyJohnson-Hi)  | Technology Lead | Manage the technology used and performing SQL queries|
    
 
 Segment 1 goals:
