@@ -6,7 +6,7 @@
       2.	The group has selected this topic in order to determine if there is a linear relationship between the use of profanity over time in music.
       3.	The sources of data are music lyrics on a music lyric database and Spotify in order to use the meta data to determine top downloaded songs
       4.	The main question to answer is if increased profanity in music lyrics increases the popularity of the song.  This information will help future song writers determine if using profanity will help the song sell or hinder it’s sales especially for up and coming artists.
-      5. The main communication source for this project will be through GitHub and Slack.  
+      5.    The main communication source for this project will be through GitHub and Slack.  
 
 
 Segment 1 goals:
