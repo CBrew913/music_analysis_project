@@ -21,7 +21,7 @@ The topic we have chosen is to determine if there is a link between profanity in
   ### Objective
 The main question to answer is if increased profanity in music lyrics increases the popularity of the song.  This information will help future song writers determine if using profanity will help the song sell or hinder it’s sales especially for up and coming artists.  The main communication source for this project will be through GitHub and Slack.  
 
-![image](https://user-images.githubusercontent.com/103297084/201168370-8eef1e92-9e65-466f-b429-51e35feb11ed.png)
+![image](https://user-images.githubusercontent.com/103297084/201395808-4886049f-113a-4c1f-9c04-723bbea02bdc.png)
 
 
 Segment 1 goals:
