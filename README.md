@@ -9,7 +9,7 @@ This is the final project for KU Data Analytics Bootcamp
    | [Julie McDaniel](https://github.com/JuMcDaniel)  | Project Manager | Manage the product communication, presentation and visualization|
    | [Caleb Brewer](https://github.com/CBrew913)  | Dashboard Lead | Manage the GitHub account and perform ETL on databases|
    | [Bennett Lawrence](https://github.com/bhlawrence)  | Database Lead | Responsible for pulling database information from API|
-   | [Teresa Hartment](https://github.com/TeresaHartman)  | Machine Learning Lead | Manage the machine learning model|
+   | [Teresa Hartman](https://github.com/TeresaHartman)  | Machine Learning Lead | Manage the machine learning model|
    | [Danny Johnson](https://github.com/DannyJohnson-Hi)  | Technology Lead | Manage the technology used and performing SQL queries|
    
 **Even though members have selected roles, everyone is working together to achieve the end goal.
