@@ -24,6 +24,10 @@ The main question to answer is if increased profanity in music lyrics increases 
 ![image](https://user-images.githubusercontent.com/103297084/201395808-4886049f-113a-4c1f-9c04-723bbea02bdc.png)
 
 
+# Data Source
+We used a "top10s.csv" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010- 2019),
+
+
 Segment 1 goals:
 
 GitHub (Square) – Caleb
