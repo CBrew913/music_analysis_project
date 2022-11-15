@@ -20,7 +20,7 @@ The topic we have chosen is to determine if there is a link between profanity in
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
 
-The machine learning model that will be utilized is a Linear Regression model. 
+The machine learning model that will be utilized is a Linear Regression model. This will take in data from the sources mentioned above (Daniel's branch) and will be taking the input variables of percentage of curse words in each song and how popular that song is. This will determine if there is a linear relationship between percentage of profanity and how popular the song is for that timeframe. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
       
   ### Objective
 The main question to answer is if increased profanity in music lyrics increases the popularity of the song.  This information will help future song writers determine if using profanity will help the song sell or hinder it’s sales especially for up and coming artists.  The main communication source for this project will be through GitHub and Slack.  
