@@ -24,7 +24,11 @@ The main question to answer is if increased profanity in music lyrics increases 
 ### Communication
 The main communication source for this project will be through GitHub and Slack.  
 
-![image](https://user-images.githubusercontent.com/103297084/201395808-4886049f-113a-4c1f-9c04-723bbea02bdc.png)
+## Database
+### ERD
+
+![image](https://user-images.githubusercontent.com/103297084/202476728-3f0f86c9-c0af-44b5-b45c-89259a81a6a0.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
