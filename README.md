@@ -23,6 +23,11 @@ The main question to answer is if increased profanity in music lyrics increases 
 
 ![image](https://user-images.githubusercontent.com/103297084/201395808-4886049f-113a-4c1f-9c04-723bbea02bdc.png)
 
+# Data Source
+We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/main/top10s.csv)" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010- 2019), and has a strong set of song characteristics concerning title, artist, and genre. You can access the full dataset here - https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+
+![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
+
 
 Segment 1 goals:
 
