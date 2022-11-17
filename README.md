@@ -45,9 +45,6 @@ We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/
 
 
 
-![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
-
-
 
 #### References
 1. https://www.loudlab.org/blog/spotify-popularity-leverage-algorithm/#:~:text=What%20is%20Spotify%27s%20Popularity%20Index,on%20algorithmic%20playlists%20and%20recommendations.
