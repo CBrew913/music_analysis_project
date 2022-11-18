@@ -19,29 +19,32 @@ This is the final project for KU Data Analytics Bootcamp
 The topic we have chosen is to determine if there is a link between profanity in music and the change in popularity over the years.  The group has selected this topic in order to determine if there is a linear relationship between the use of profanity over time in music. The sources of data are music lyrics on a music lyric database and Spotify in order to use the meta data to determine top downloaded songs
       
   ### Objective
-The main question to answer is if increased profanity in music lyrics increases the popularity of the song.  This information will help future song writers determine if using profanity will help the song sell or hinder it’s sales especially for up and coming artists.  The main communication source for this project will be through GitHub and Slack.  
+The main question to answer is if increased profanity in music lyrics increases the popularity of the song?  This information will help future song writers determine if using profanity will help the song sell or hinder it’s sales especially for up and coming artists.  The popularity index that we will use is based off of spotify. Each track has its own SPI calculated influencing the artist’s overall index. Yet, while the Popularity Index is majorly determined by recent stream count, other factors like save rate, the number of playlists, skip rate, and share rate can indirectly bump up or push down a song’s popularity index (1).  We will also break down the data by genre between dance pop, pop and other based on the top songs for the years 2010-2019.  The other avenue to discover is if over time the amount of profanity in a song peeks and then recedes over the years or if there is a steady increase. 
 
-![image](https://user-images.githubusercontent.com/103297084/201395808-4886049f-113a-4c1f-9c04-723bbea02bdc.png)
+### Communication
+The main communication source for this project will be through GitHub and Slack.  Our group has added extra meetings on Sunday's where we use Slack Huddle to combine our efforts to achieve the best projects.  The project manager will send out goals for each meeting in order to keep the group on track with the assignment. 
+
+## Presentation
+Our full presentation can be found on [google slides](https://docs.google.com/presentation/d/1FcxS6b_bGPB0cDON7tFWfnrfn7OkDUYdnvs2HvQcbnk/edit?usp=sharing).
+
+## Database
+### ERD
+
+![image](https://user-images.githubusercontent.com/103297084/202476728-3f0f86c9-c0af-44b5-b45c-89259a81a6a0.png)
+
+### Machine Learning Model
+
+The machine learning model that will be utilized is a Linear Regression model. This will take in data from the sources mentioned above (Daniel's branch) and will be taking the input variables of percentage of curse words in each song and how popular that song is. This will determine if there is a linear relationship between percentage of profanity and how popular the song is for that timeframe. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
+
+## Data Source
+We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/main/top10s.csv)" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010- 2019), and has a strong set of song characteristics concerning title, artist, and genre. You can access the full dataset here - https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+
+![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
 
 
-Segment 1 goals:
 
-GitHub (Square) – Caleb
-- [x] Main Branch includes README.md
-- [x] Description of the communication protocols
-- [x] Every team member has a branch
-- [ ] Each team member has at least 4 commits in the first segment
 
-Machine Learning Model (Triangle)- Teresa
-- [ ] Provisional machine learning model
-- [ ] Takes in data from the provisional database
-- [ ] Outputs label(s) for input data
-
-Database (Circle)- Bennett
-- [ ] Sample data that mimics the expected final database structure or schema
-- [ ] Draft machine learning module is connected to the provisional database
-
-Technologies (X) – Daniel
-- [ ] Determine technologies used for the final project
-- [ ] Commit standards of technology to GitHub
-
+#### References
+1. https://www.loudlab.org/blog/spotify-popularity-leverage-algorithm/#:~:text=What%20is%20Spotify%27s%20Popularity%20Index,on%20algorithmic%20playlists%20and%20recommendations.
