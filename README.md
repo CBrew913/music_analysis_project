@@ -27,6 +27,11 @@ The main communication source for this project will be through GitHub and Slack.
 ## Presentation
 Our full presentation can be found on [google slides](https://docs.google.com/presentation/d/1FcxS6b_bGPB0cDON7tFWfnrfn7OkDUYdnvs2HvQcbnk/edit?usp=sharing).
 
+## Data Source
+We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/main/top10s.csv)" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010- 2019), and has a strong set of song characteristics concerning title, artist, and genre. You can access the full dataset here - https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+
+![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
+
 ## Description of Analysis
 
 ### Exploration
@@ -46,10 +51,6 @@ The machine learning model that will be utilized is a Linear Regression model. T
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
 
-## Data Source
-We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/main/top10s.csv)" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010- 2019), and has a strong set of song characteristics concerning title, artist, and genre. You can access the full dataset here - https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
-
-![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
 
 
 
