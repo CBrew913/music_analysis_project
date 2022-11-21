@@ -34,6 +34,12 @@ We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/
 ![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
 
 
+## Data Exploration
+### Exploration
+
+
+### Analysis
+
 ## Database
 ### ERD
 
