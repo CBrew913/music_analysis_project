@@ -38,3 +38,11 @@ create table genres(
 	perc_profanity INT,
 	primary key (artist, song_title)
 );
+
+
+SELECT profanity.artist, profanity.song_title, popularity.year_released, profanity.perc_profanity
+FROM popularity
+INNER JOIN profanity ON
+popularity.artist=profanity.artist; 
+
+SELECT
