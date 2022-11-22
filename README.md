@@ -38,22 +38,22 @@ We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/
 The data exploration phase of the project was to determine the true content of the lyrics.  We discovered that there was a header at the beginning of every lyric with the artist and the title of the song.  We knew that would skew our word count data.  We also discovered that at the end of every lyric was a number with embed at the end and would have to remove that.  There was also a random add to buy tickets in the data set, so we knew that would need to be removed.  Overall the data was in the form that we needed it to be with being a string. 
 
 #### Header removal
-image.png
+header_removal.jpg
 
 #### Nall removal
-image.png
+removing_nan.jpg
 
 ### Analysis
 During the analysis phase the data was cleaned of all unnecessary characters including the \n, headers, footers, random adds, punctuation and all the null values within the data set.  Once the data was cleaned, we started analyzing the data.  This is where things are getting a little tricky.  We were able to determine the value counts for all the words within the lyrics and place them into their own column.  The harder piece of code is to find all the curse words and place them into their own column.  I was able to get the code to work with finding one instance of the word; however was unable to complete for counting the same word for more than one instance.  Overall, this process is taking longer than expected due to the complexity of natural language processing and counting through the rows.  
 
 #### Count total words
-image.png
+total_words.jpg
 
 #### Count Curse words
-image.png
+curse_words.jpg
 
 #### Final Columns
-image.png
+final_df.jpg
 
 ## Database
 ### ERD
