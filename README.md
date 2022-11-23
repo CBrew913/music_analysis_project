@@ -64,6 +64,9 @@ During the analysis phase the data was cleaned of all unnecessary characters inc
 
 ![image](https://user-images.githubusercontent.com/103297084/202476728-3f0f86c9-c0af-44b5-b45c-89259a81a6a0.png)
 
+### Connection string
+For our connection string we have decided to use the FastAPI code in order to get a html page that we can then connec to tableau to perform our visualizations.  Overall the code was available online with putting in our specific database information including the aws link.  Overall, this api should work quickly to be updated into tableau to prevent any lag in the data.  The website we used for the coding is : https://www.fastapitutorial.com/blog/database-connection-fastapi/
+
 ## Machine Learning Model
 
 The machine learning model that will be utilized is a Linear Regression model. This will take in data from the sources mentioned above (Daniel's branch) and will be taking the input variables of percentage of curse words in each song and how popular that song is. This will determine if there is a linear relationship between percentage of profanity and how popular the song is for that timeframe. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
