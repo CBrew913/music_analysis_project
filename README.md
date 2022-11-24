@@ -70,8 +70,13 @@ The machine learning model that will be utilized is a Linear Regression model. T
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
 
 
+## Dashboard
 
+The tools that we have decided to use for our dashboard is Tableau.  We feel that Tableau is very interactive with a lot of features that would be beneficial for our final project.
 
+The interactive elements of our dashboard will be gliding over the points on the linear regression model and it will state the artist, song title, popularity and profanity percentage.  
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/dashboard.jpg)
 
 #### References
 1. https://www.loudlab.org/blog/spotify-popularity-leverage-algorithm/#:~:text=What%20is%20Spotify%27s%20Popularity%20Index,on%20algorithmic%20playlists%20and%20recommendations.
