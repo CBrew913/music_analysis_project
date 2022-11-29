@@ -69,6 +69,13 @@ The machine learning model that will be utilized is a Linear Regression model. T
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
 
+We chose the Machine Learning Model of Linear Regression to compare the two characteristics of Time and Percent of Profanity in each song to determine if the percent of profanity in songs is increasing over time. A benefit of this is that there is a visual that is easy to interpret of the relationship between the two characteristics, and is shown below. A limit to this is that is only allows us to connect two of the characteristics of the many variables that we have considered, including the popularity rating and genre if we wanted to do farther analysis. We have started to do farther machine learning analysis to determine if any questions can be answered, including other charactistics about our data. 
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/LinReg_TimePerc_Graph.PNG)
+
+The data was split into the training and testing sets using sklearn.model_selection where X is the time in years, and y is the percetage of bad words in each song. 
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Train_Test.PNG)
 
 ## Dashboard
 
