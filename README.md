@@ -21,8 +21,6 @@ The topic we have chosen is to determine if there is a link between profanity in
   ### Objective
 The main question to answer is if increased profanity in music lyrics increases the popularity of the song?  This information will help future song writers determine if using profanity will help the song sell or hinder it’s sales especially for up and coming artists.  The popularity index that we will use is based off of spotify. Each track has its own SPI calculated influencing the artist’s overall index. Yet, while the Popularity Index is majorly determined by recent stream count, other factors like save rate, the number of playlists, skip rate, and share rate can indirectly bump up or push down a song’s popularity index (1).  We will also break down the data by genre between dance pop, pop and other based on the top songs for the years 2010-2019.  The other avenue to discover is if over time the amount of profanity in a song peeks and then recedes over the years or if there is a steady increase. 
 
-### Communication
-The main communication source for this project will be through GitHub and Slack.  Our group has added extra meetings on Sunday's where we use Slack Huddle to combine our efforts to achieve the best projects.  The project manager will send out goals for each meeting in order to keep the group on track with the assignment. 
 
 ## Presentation
 Our full presentation can be found on [google slides](https://docs.google.com/presentation/d/1FcxS6b_bGPB0cDON7tFWfnrfn7OkDUYdnvs2HvQcbnk/edit?usp=sharing).
@@ -61,7 +59,7 @@ During the analysis phase the data was cleaned of all unnecessary characters inc
 ![image](https://user-images.githubusercontent.com/103297084/202476728-3f0f86c9-c0af-44b5-b45c-89259a81a6a0.png)
 
 ### Connection string
-For our connection string we have decided to use the FastAPI code in order to get a html page that we can then connec to tableau to perform our visualizations.  Overall the code was available online with putting in our specific database information including the aws link.  Overall, this api should work quickly to be updated into tableau to prevent any lag in the data.  The website we used for the coding is : https://www.fastapitutorial.com/blog/database-connection-fastapi/
+For our connection string we have used Amazon Web Servers for our Database and connecting through pgAdmin.  
 
 ## Machine Learning Model
 
