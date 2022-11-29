@@ -1,9 +1,9 @@
 title,artist,total_words,total_bad_words,perc_bad_words
 "Hey, Soul Sister",Train,294,0,0.0
 Love The Way You Lie,Eminem,732,6,0.819672131147541
-TiK ToK,Kesha,465,1,0.21505376344086022
-Bad Romance,Lady Gaga,521,6,1.1516314779270633
-Just the Way You Are,Bruno Mars,324,1,0.30864197530864196
+TiK ToK,Kesha,465,0,0.0
+Bad Romance,Lady Gaga,521,5,0.9596928982725527
+Just the Way You Are,Bruno Mars,324,0,0.0
 Baby,Justin Bieber,442,0,0.0
 Dynamite,Taio Cruz,371,1,0.2695417789757413
 Secrets,OneRepublic,347,0,0.0
@@ -11,65 +11,65 @@ Empire State of Mind (Part II) Broken Down,Alicia Keys,297,0,0.0
 Only Girl (In The World),Rihanna,400,0,0.0
 Club Can't Handle Me (feat. David Guetta),Flo Rida,594,0,0.0
 Marry You,Bruno Mars,342,0,0.0
-Cooler Than Me - Single Mix,Mike Posner,404,2,0.49504950495049505
+Cooler Than Me - Single Mix,Mike Posner,404,0,0.0
 Telephone,Lady Gaga,669,0,0.0
 Like A G6,Far East Movement,487,0,0.0
-OMG (feat. will.i.am),Usher,860,3,0.3488372093023256
+OMG (feat. will.i.am),Usher,860,0,0.0
 Eenie Meenie,Sean Kingston,442,0,0.0
 The Time (Dirty Bit),The Black Eyed Peas,488,0,0.0
 Alejandro,Lady Gaga,357,0,0.0
 Your Love Is My Drug,Kesha,380,0,0.0
-Meet Me Halfway,The Black Eyed Peas,434,1,0.2304147465437788
+Meet Me Halfway,The Black Eyed Peas,434,0,0.0
 Whataya Want from Me,Adam Lambert,338,0,0.0
 Take It Off,Kesha,435,0,0.0
 Misery,Maroon 5,400,0,0.0
-All The Right Moves,OneRepublic,438,1,0.228310502283105
+All The Right Moves,OneRepublic,438,0,0.0
 Animal,Neon Trees,300,0,0.0
 Naturally,Selena Gomez & The Scene,273,0,0.0
-I Like It,Enrique Iglesias,505,1,0.19801980198019803
+I Like It,Enrique Iglesias,505,0,0.0
 Teenage Dream,Katy Perry,400,0,0.0
-California Gurls,Katy Perry,417,4,0.9592326139088728
+California Gurls,Katy Perry,417,2,0.4796163069544364
 3,Britney Spears,325,0,0.0
 My First Kiss - feat. Ke$ha,3OH!3,282,0,0.0
 Blah Blah Blah (feat. 3OH!3),Kesha,282,0,0.0
-Imma Be,The Black Eyed Peas,526,12,2.2813688212927756
+Imma Be,The Black Eyed Peas,526,8,1.520912547528517
 Try Sleeping with a Broken Heart,Alicia Keys,350,0,0.0
 Sexy Bitch (feat. Akon),David Guetta,226,0,0.0
 If I Had You,Adam Lambert,356,0,0.0
-Rock That Body,The Black Eyed Peas,502,11,2.1912350597609564
+Rock That Body,The Black Eyed Peas,502,5,0.9960159362549801
 Dog Days Are Over,Florence + The Machine,287,0,0.0
 Doesn't Mean Anything,Alicia Keys,253,0,0.0
 Hard,Rihanna,723,2,0.2766251728907331
 Loca,Shakira,368,0,0.0
 You Lost Me,Christina Aguilera,187,0,0.0
 Not Myself Tonight,Christina Aguilera,307,2,0.6514657980456027
-Written in the Stars (feat. Eric Turner),Tinie Tempah,457,1,0.2188183807439825
+Written in the Stars (feat. Eric Turner),Tinie Tempah,457,0,0.0
 DJ Got Us Fallin' In Love (feat. Pitbull),Usher,513,0,0.0
 Castle Walls (feat. Christina Aguilera),T.I.,322,3,0.9316770186335404
 Break Your Heart,Taio Cruz,342,0,0.0
 Hello,Martin Solveig,339,0,0.0
 A Thousand Years,Christina Perri,221,0,0.0
 Someone Like You,Adele,340,0,0.0
-Give Me Everything,Pitbull,617,3,0.48622366288492713
+Give Me Everything,Pitbull,617,0,0.0
 Rolling in the Deep,Adele,550,1,0.18181818181818182
-Run the World (Girls),BeyoncÃ©,557,1,0.17953321364452424
+Run the World (Girls),BeyoncÃ©,557,0,0.0
 Love On Top,BeyoncÃ©,562,0,0.0
 Grenade,Bruno Mars,446,0,0.0
 Tonight Tonight,Hot Chelle Rae,467,0,0.0
 What the Hell,Avril Lavigne,390,0,0.0
-Born This Way,Lady Gaga,581,1,0.17211703958691912
-Monster,Kanye West,1006,78,7.75347912524851
+Born This Way,Lady Gaga,581,0,0.0
+Monster,Kanye West,1006,57,5.666003976143141
 Best Thing I Never Had,BeyoncÃ©,481,2,0.4158004158004158
 Party Rock Anthem,LMFAO,491,0,0.0
-We R Who We R,Kesha,359,3,0.8356545961002786
+We R Who We R,Kesha,359,1,0.2785515320334262
 Price Tag,Jessie J,523,1,0.19120458891013384
-Good Life,OneRepublic,415,2,0.48192771084337355
-Just CanÂt Get Enough,The Black Eyed Peas,599,3,0.5008347245409015
-On The Floor,Jennifer Lopez,610,3,0.49180327868852464
+Good Life,OneRepublic,415,0,0.0
+Just CanÂt Get Enough,The Black Eyed Peas,599,2,0.333889816360601
+On The Floor,Jennifer Lopez,610,2,0.32786885245901637
 What's My Name?,Rihanna,620,0,0.0
-Yeah 3x,Chris Brown,402,3,0.7462686567164178
+Yeah 3x,Chris Brown,402,1,0.24875621890547264
 Without You (feat. Usher),David Guetta,79,0,0.0
-Sexy And I Know It,LMFAO,379,8,2.1108179419525066
+Sexy And I Know It,LMFAO,379,0,0.0
 The Edge Of Glory,Lady Gaga,416,0,0.0
 E.T.,Katy Perry,268,0,0.0
 Till the World Ends,Britney Spears,268,0,0.0
@@ -77,27 +77,27 @@ I Wanna Go,Britney Spears,252,0,0.0
 Blow,Kesha,289,0,0.0
 You And I,Lady Gaga,418,0,0.0
 Judas,Lady Gaga,387,0,0.0
-Tonight (I'm Fuckin' You),Enrique Iglesias,388,29,7.474226804123711
+Tonight (I'm Fuckin' You),Enrique Iglesias,388,28,7.216494845360824
 Please Don't Go,Mike Posner,314,0,0.0
 We Found Love,Rihanna,269,0,0.0
-Marry The Night,Lady Gaga,369,1,0.27100271002710025
+Marry The Night,Lady Gaga,369,0,0.0
 1+1,BeyoncÃ©,257,0,0.0
 Hold It Against Me,Britney Spears,320,0,0.0
 I'm Into You,Jennifer Lopez,573,1,0.17452006980802792
 Papi,Jennifer Lopez,486,0,0.0
-Cheers (Drink To That),Rihanna,531,4,0.7532956685499058
+Cheers (Drink To That),Rihanna,531,0,0.0
 S&M Remix,Rihanna,523,5,0.9560229445506693
 Jar of Hearts,Christina Perri,309,0,0.0
 Turning Page,Sleeping At Last,178,0,0.0
-Super Bass,Nicki Minaj,663,48,7.239819004524888
-Raise Your Glass,P!nk,397,20,5.037783375314862
+Super Bass,Nicki Minaj,663,2,0.301659125188537
+Raise Your Glass,P!nk,397,4,1.0075566750629723
 Invading My Mind,Jennifer Lopez,299,0,0.0
-Last Friday Night (T.G.I.F.),Katy Perry,427,1,0.234192037470726
+Last Friday Night (T.G.I.F.),Katy Perry,427,0,0.0
 Firework,Katy Perry,367,0,0.0
-Titanium (feat. Sia),David Guetta,204,1,0.49019607843137253
+Titanium (feat. Sia),David Guetta,204,0,0.0
 Locked Out of Heaven,Bruno Mars,324,4,1.2345679012345678
 Paradise,Coldplay,250,0,0.0
-Payphone,Maroon 5,565,12,2.1238938053097343
+Payphone,Maroon 5,565,9,1.592920353982301
 What Makes You Beautiful,One Direction,410,0,0.0
 I Knew You Were Trouble.,Taylor Swift,403,0,0.0
 Call Me Maybe,Carly Rae Jepsen,407,0,0.0
@@ -106,31 +106,31 @@ Set Fire to the Rain,Adele,344,0,0.0
 We Are Never Ever Getting Back Together,Taylor Swift,371,0,0.0
 Stronger (What Doesn't Kill You),Kelly Clarkson,395,0,0.0
 Try,P!nk,288,0,0.0
-Starships,Nicki Minaj,383,14,3.6553524804177546
+Starships,Nicki Minaj,383,12,3.1331592689295036
 One More Night,Maroon 5,495,0,0.0
 Good Time,Owl City,327,0,0.0
 Glad You Came,The Wanted,325,0,0.0
-Beauty And A Beat,Justin Bieber,323,2,0.6191950464396285
+Beauty And A Beat,Justin Bieber,323,1,0.30959752321981426
 International Love,Pitbull,574,0,0.0
 Some Nights,fun.,475,1,0.21052631578947367
 Boyfriend,Justin Bieber,409,0,0.0
 Part Of Me,Katy Perry,415,0,0.0
-Domino,Jessie J,389,2,0.5141388174807198
+Domino,Jessie J,389,0,0.0
 Where Have You Been,Rihanna,294,0,0.0
 Wide Awake,Katy Perry,324,0,0.0
 The One That Got Away,Katy Perry,327,0,0.0
 Dance Again,Jennifer Lopez,471,0,0.0
-Turn Up the Music,Chris Brown,588,4,0.6802721088435374
+Turn Up the Music,Chris Brown,588,0,0.0
 Lights - Single Version,Ellie Goulding,276,0,0.0
-We Are Young (feat. Janelle MonÃ¡e),fun.,321,1,0.3115264797507788
+We Are Young (feat. Janelle MonÃ¡e),fun.,321,0,0.0
 Diamonds,Rihanna,373,0,0.0
-Don't Stop the Party (feat. TJR),Pitbull,501,2,0.39920159680638717
-You Da One,Rihanna,503,2,0.3976143141153081
-Stereo Hearts (feat. Adam Levine),Gym Class Heroes,860,3,0.3488372093023256
+Don't Stop the Party (feat. TJR),Pitbull,501,0,0.0
+You Da One,Rihanna,503,1,0.19880715705765406
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,860,0,0.0
 It Will Rain,Bruno Mars,315,0,0.0
-Blow Me (One Last Kiss),P!nk,582,15,2.5773195876288657
+Blow Me (One Last Kiss),P!nk,582,12,2.0618556701030926
 Underneath the Tree,Kelly Clarkson,309,0,0.0
-Wake Me Up,Avicii,251,1,0.398406374501992
+Wake Me Up,Avicii,251,0,0.0
 Story of My Life,One Direction,365,0,0.0
 Just Give Me a Reason (feat. Nate Ruess),P!nk,409,0,0.0
 Hall of Fame,The Script,461,0,0.0
@@ -138,11 +138,11 @@ Roar,Katy Perry,354,0,0.0
 We Can't Stop,Miley Cyrus,570,0,0.0
 Don't You Worry Child - Radio Edit,Swedish House Mafia,272,0,0.0
 Wrecking Ball,Miley Cyrus,339,0,0.0
-Impossible,James Arthur,295,1,0.3389830508474576
-Blurred Lines,Robin Thicke,746,7,0.938337801608579
+Impossible,James Arthur,295,0,0.0
+Blurred Lines,Robin Thicke,746,5,0.6702412868632708
 Heart Attack,Demi Lovato,412,0,0.0
 Die Young,Kesha,377,0,0.0
-Clarity,Zedd,278,1,0.3597122302158274
+Clarity,Zedd,278,0,0.0
 Under Control,Calvin Harris,170,0,0.0
 Everybody Talks,Neon Trees,282,1,0.3546099290780142
 "Hold On, We're Going Home",Drake,318,0,0.0
@@ -150,7 +150,7 @@ Best Song Ever,One Direction,450,0,0.0
 Kiss You,One Direction,366,0,0.0
 Sweet Nothing (feat. Florence Welch),Calvin Harris,227,0,0.0
 Lose Yourself to Dance,Daft Punk,1081,0,0.0
-Work Bitch,Britney Spears,410,20,4.878048780487805
+Work Bitch,Britney Spears,410,10,2.4390243902439024
 Brave,Sara Bareilles,381,0,0.0
 Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,714,0,0.0
 Feel This Moment (feat. Christina Aguilera),Pitbull,407,0,0.0
@@ -159,7 +159,7 @@ Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,414,0,0.0
 Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,714,0,0.0
 If I Lose Myself - Alesso vs OneRepublic,OneRepublic,142,0,0.0
 The Way,Ariana Grande,694,0,0.0
-Suit & Tie,Justin Timberlake,725,13,1.7931034482758619
+Suit & Tie,Justin Timberlake,725,7,0.9655172413793104
 #thatPOWER,will.i.am,386,0,0.0
 I Love It (feat. Charli XCX),Icona Pop,605,1,0.1652892561983471
 Play Hard (feat. Ne-Yo & Akon) - New Edit,David Guetta,459,0,0.0
@@ -168,34 +168,34 @@ Love Somebody,Maroon 5,344,0,0.0
 A Little Party Never Killed Nobody (All We Got),Fergie,443,0,0.0
 Move,Little Mix,603,0,0.0
 Walks Like Rihanna,The Wanted,283,0,0.0
-Rock N Roll,Avril Lavigne,456,3,0.6578947368421052
+Rock N Roll,Avril Lavigne,456,1,0.21929824561403508
 Heartbreaker,Justin Bieber,481,0,0.0
-Mirrors - Radio Edit,Justin Timberlake,587,1,0.17035775127768313
+Mirrors - Radio Edit,Justin Timberlake,587,0,0.0
 Next To Me,Emeli SandÃ©,297,0,0.0
 Made In The USA,Demi Lovato,368,0,0.0
-Clown,Emeli SandÃ©,262,3,1.1450381679389312
+Clown,Emeli SandÃ©,262,0,0.0
 Girl On Fire (feat. Nicki Minaj) - Inferno Version,Alicia Keys,398,0,0.0
 TKO,Justin Timberlake,823,3,0.3645200486026731
 Come & Get It,Selena Gomez,345,0,0.0
 Live It Up,Jennifer Lopez,516,6,1.1627906976744187
 We Own The Night,The Wanted,311,0,0.0
 What About Love,Austin Mahone,326,0,0.0
-Take Back the Night,Justin Timberlake,636,3,0.4716981132075472
+Take Back the Night,Justin Timberlake,636,0,0.0
 Applause,Lady Gaga,413,0,0.0
 Anything Could Happen,Ellie Goulding,317,0,0.0
 Finally Found You,Enrique Iglesias,425,2,0.4705882352941176
 Pom Poms,Jonas Brothers,367,0,0.0
-#Beautiful,Mariah Carey,266,13,4.887218045112782
+#Beautiful,Mariah Carey,266,9,3.3834586466165413
 How Ya Doin'? (feat. Missy Elliott),Little Mix,649,0,0.0
 Crazy Kids (feat. will.i.am),Kesha,282,0,0.0
-"Ooh La La (from ""The Smurfs 2"")",Britney Spears,3513,2,0.0569313976658127
+"Ooh La La (from ""The Smurfs 2"")",Britney Spears,3513,0,0.0
 People Like Us,Kelly Clarkson,444,0,0.0
 Overdose,Ciara,491,0,0.0
 Right Now - Dyro Radio Edit,Rihanna,154,0,0.0
 Give It 2 U,Robin Thicke,522,1,0.19157088122605362
 Foolish Games,Jewel,240,0,0.0
-Outta Nowhere (feat. Danny Mercer),Pitbull,428,4,0.9345794392523363
-Freak,Kelly Rowland,366,3,0.819672131147541
+Outta Nowhere (feat. Danny Mercer),Pitbull,428,2,0.46728971962616817
+Freak,Kelly Rowland,366,2,0.546448087431694
 All of Me,John Legend,345,0,0.0
 Stay With Me,Sam Smith,160,0,0.0
 Summer,Calvin Harris,126,0,0.0
@@ -204,8 +204,8 @@ Shake It Off,Taylor Swift,600,0,0.0
 Dark Horse,Katy Perry,464,0,0.0
 Hey Brother,Avicii,193,0,0.0
 Maps,Maroon 5,457,0,0.0
-Treasure,Bruno Mars,322,1,0.3105590062111801
-Let Her Go,Passenger,407,2,0.4914004914004914
+Treasure,Bruno Mars,322,0,0.0
+Let Her Go,Passenger,407,0,0.0
 Problem,Ariana Grande,535,0,0.0
 Pompeii,Bastille,359,0,0.0
 Team,Lorde,371,0,0.0
@@ -215,57 +215,57 @@ Adore You,Miley Cyrus,230,0,0.0
 Love Never Felt So Good,Michael Jackson,348,0,0.0
 Burn,Ellie Goulding,504,0,0.0
 She Looks So Perfect,5 Seconds of Summer,312,0,0.0
-Fancy,Iggy Azalea,474,4,0.8438818565400843
-Talk Dirty (feat. 2 Chainz),Jason Derulo,514,4,0.7782101167315175
-Gorilla,Bruno Mars,401,4,0.997506234413965
+Fancy,Iggy Azalea,474,2,0.42194092827004215
+Talk Dirty (feat. 2 Chainz),Jason Derulo,514,3,0.5836575875486382
+Gorilla,Bruno Mars,401,3,0.7481296758104738
 human,Christina Perri,247,0,0.0
 Young Girls,Bruno Mars,311,0,0.0
-Wiggle (feat. Snoop Dogg),Jason Derulo,413,11,2.663438256658596
+Wiggle (feat. Snoop Dogg),Jason Derulo,413,7,1.694915254237288
 Love Runs Out,OneRepublic,449,0,0.0
 This Is How We Do,Katy Perry,503,0,0.0
 Mmm Yeah (feat. Pitbull),Austin Mahone,629,0,0.0
-#SELFIE,The Chainsmokers,347,2,0.5763688760806917
-Partition,BeyoncÃ©,667,9,1.3493253373313343
+#SELFIE,The Chainsmokers,347,1,0.2881844380403458
+Partition,BeyoncÃ©,667,1,0.14992503748125938
 Birthday,Katy Perry,412,0,0.0
-G.U.Y.,Lady Gaga,384,2,0.5208333333333333
+G.U.Y.,Lady Gaga,384,1,0.26041666666666663
 Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,308,0,0.0
-"Let It Go - From ""Frozen / Single Version",Demi Lovato,3123,7,0.22414345180915787
+"Let It Go - From ""Frozen / Single Version",Demi Lovato,3123,1,0.032020493115593976
 Wings,Birdy,229,0,0.0
 Can't Remember to Forget You (feat. Rihanna),Shakira,387,0,0.0
-Shot Me Down (feat. Skylar Grey) - Radio Edit,David Guetta,4859,19,0.391026960279893
+Shot Me Down (feat. Skylar Grey) - Radio Edit,David Guetta,4859,3,0.06174109899156205
 Say Something,A Great Big World,137,0,0.0
 A Sky Full of Stars,Coldplay,168,0,0.0
-Come Get It Bae,Pharrell Williams,470,2,0.425531914893617
-Chandelier,Sia,375,4,1.0666666666666667
+Come Get It Bae,Pharrell Williams,470,1,0.2127659574468085
+Chandelier,Sia,375,0,0.0
 XO,BeyoncÃ©,300,0,0.0
 We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song],Pitbull,489,0,0.0
 Not About Angels,Birdy,126,0,0.0
 Drunk in Love,BeyoncÃ©,572,7,1.2237762237762237
-Anaconda,Nicki Minaj,619,35,5.654281098546042
+Anaconda,Nicki Minaj,619,23,3.715670436187399
 La La La (Brasil 2014) (feat. Carlinhos Brown),Shakira,340,0,0.0
-Tee Shirt - Soundtrack Version,Birdy,1001,3,0.2997002997002997
+Tee Shirt - Soundtrack Version,Birdy,1001,1,0.0999000999000999
 Words as Weapons,Birdy,222,0,0.0
 You're Mine (Eternal),Mariah Carey,322,0,0.0
-Sheezus,Lily Allen,396,5,1.2626262626262625
+Sheezus,Lily Allen,396,2,0.5050505050505051
 Cannonball,Lea Michele,329,0,0.0
-It's On Again - Main Soundtrack,Alicia Keys,1343,3,0.22338049143708116
-I Luh Ya Papi,Jennifer Lopez,779,4,0.5134788189987163
+It's On Again - Main Soundtrack,Alicia Keys,1343,2,0.14892032762472077
+I Luh Ya Papi,Jennifer Lopez,779,3,0.38510911424903727
 Not a Bad Thing,Justin Timberlake,461,3,0.6507592190889371
 Thinking out Loud,Ed Sheeran,311,0,0.0
 I'm Not The Only One,Sam Smith,245,0,0.0
-The Hills,The Weeknd,462,16,3.463203463203463
+The Hills,The Weeknd,462,15,3.2467532467532463
 Love Yourself,Justin Bieber,444,0,0.0
-Uptown Funk,Mark Ronson,719,3,0.4172461752433936
+Uptown Funk,Mark Ronson,719,1,0.13908205841446453
 Take Me To Church,Hozier,430,0,0.0
-Sugar,Maroon 5,476,1,0.21008403361344538
+Sugar,Maroon 5,476,0,0.0
 Sorry,Justin Bieber,348,0,0.0
 FourFiveSeconds,Rihanna,295,0,0.0
-"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,995,1,0.10050251256281408
-"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",The Weeknd,333,1,0.3003003003003003
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,995,0,0.0
+"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",The Weeknd,333,0,0.0
 What Do You Mean?,Justin Bieber,460,0,0.0
 Stitches,Shawn Mendes,374,0,0.0
 Want to Want Me,Jason Derulo,445,0,0.0
-My House,Flo Rida,419,2,0.47732696897374705
+My House,Flo Rida,419,0,0.0
 Waves - Robin Schulz Radio Edit,Mr. Probz,213,0,0.0
 Night Changes,One Direction,336,0,0.0
 How Deep Is Your Love,Calvin Harris,367,0,0.0
@@ -279,23 +279,23 @@ Don't,Ed Sheeran,598,2,0.33444816053511706
 Elastic Heart,Sia,373,0,0.0
 Rather Be (feat. Jess Glynne),Clean Bandit,374,0,0.0
 Hello,Adele,373,0,0.0
-Dear Future Husband,Meghan Trainor,366,1,0.273224043715847
+Dear Future Husband,Meghan Trainor,366,0,0.0
 The Heart Wants What It Wants,Selena Gomez,405,0,0.0
-"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,369,1,0.27100271002710025
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,369,0,0.0
 Genie In a Bottle,Christina Aguilera,520,0,0.0
 Company,Justin Bieber,250,0,0.0
-Sing,Ed Sheeran,456,1,0.21929824561403508
-Jealous - Remix,Nick Jonas,412,6,1.4563106796116505
+Sing,Ed Sheeran,456,0,0.0
+Jealous - Remix,Nick Jonas,412,0,0.0
 Really Don't Care,Demi Lovato,411,0,0.0
 "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,219,0,0.0
 Only Love Can Hurt Like This,Paloma Faith,251,0,0.0
 Heartbeat Song,Kelly Clarkson,426,0,0.0
-Up,Olly Murs,413,2,0.48426150121065376
-Trumpets,Jason Derulo,393,1,0.2544529262086514
+Up,Olly Murs,413,0,0.0
+Trumpets,Jason Derulo,393,0,0.0
 Runnin' (Lose It All),Naughty Boy,223,0,0.0
 Same Old Love,Selena Gomez,371,3,0.8086253369272237
 I Want You To Know,Zedd,359,0,0.0
-Lips Are Movin,Meghan Trainor,492,8,1.6260162601626018
+Lips Are Movin,Meghan Trainor,492,0,0.0
 I'll Show You,Justin Bieber,251,0,0.0
 Here,Alessia Cara,426,0,0.0
 I Lived,OneRepublic,250,0,0.0
@@ -305,57 +305,57 @@ The Feeling,Justin Bieber,359,0,0.0
 I Really Like You,Carly Rae Jepsen,505,0,0.0
 BO$$,Fifth Harmony,383,3,0.7832898172323759
 Focus,Ariana Grande,478,1,0.20920502092050208
-All About That Bass,Meghan Trainor,429,42,9.79020979020979
+All About That Bass,Meghan Trainor,429,2,0.4662004662004662
 On My Mind,Ellie Goulding,534,0,0.0
 Love Me Like You,Little Mix,400,0,0.0
 Broken Arrows,Avicii,231,0,0.0
-Booty,Jennifer Lopez,609,3,0.49261083743842365
+Booty,Jennifer Lopez,609,0,0.0
 What Do You Mean? - Acoustic,Justin Bieber,368,0,0.0
 Mark My Words,Justin Bieber,131,0,0.0
 Lay It All on Me,Rudimental,428,0,0.0
 American Oxygen,Rihanna,335,0,0.0
 Bang Bang,Jessie J,609,0,0.0
-Reality - Radio Edit,Lost Frequencies,12526,34,0.2714354143381766
+Reality - Radio Edit,Lost Frequencies,12526,1,0.007983394539358136
 Alive,Sia,400,0,0.0
-Sugar (feat. Francesco Yates),Robin Schulz,546,2,0.3663003663003663
+Sugar (feat. Francesco Yates),Robin Schulz,546,1,0.18315018315018314
 Been You,Justin Bieber,325,0,0.0
 Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,288,0,0.0
 See You Again (feat. Charlie Puth),Wiz Khalifa,668,0,0.0
 Heroes (we could be),Alesso,229,0,0.0
-"Feel The Light - From The ""Home"" Soundtrack",Jennifer Lopez,3123,7,0.22414345180915787
+"Feel The Light - From The ""Home"" Soundtrack",Jennifer Lopez,3123,1,0.032020493115593976
 Perfect,One Direction,428,0,0.0
 Ghosttown,Madonna,405,0,0.0
-Bang My Head (feat. Sia & Fetty Wap),David Guetta,546,2,0.3663003663003663
+Bang My Head (feat. Sia & Fetty Wap),David Guetta,546,1,0.18315018315018314
 Bloodstream,Ed Sheeran,494,0,0.0
 Living For Love,Madonna,372,0,0.0
 Baby Don't Lie,Gwen Stefani,323,0,0.0
 Don't Be so Hard on Yourself,Jess Glynne,430,0,0.0
 Steal My Girl,One Direction,343,0,0.0
-We Are Here,Alicia Keys,407,1,0.2457002457002457
+We Are Here,Alicia Keys,407,0,0.0
 St Jude,Florence + The Machine,239,0,0.0
 Yesterday (feat. Bebe Rexha),David Guetta,242,0,0.0
-Time of Our Lives,Pitbull,621,5,0.8051529790660225
+Time of Our Lives,Pitbull,621,4,0.644122383252818
 Sparks,Hilary Duff,284,0,0.0
 Mr. Put It Down,Ricky Martin,285,0,0.0
 Legendary Lovers,Katy Perry,344,0,0.0
-Spark The Fire,Gwen Stefani,548,1,0.18248175182481752
+Spark The Fire,Gwen Stefani,548,0,0.0
 Run Run Run,Kelly Clarkson,250,0,0.0
-Let Me Be Your Lover,Enrique Iglesias,509,1,0.19646365422396855
-Dangerous,Jennifer Hudson,377,1,0.2652519893899204
-L.A.LOVE (la la),Fergie,570,1,0.17543859649122806
-Cake By The Ocean,DNCE,447,20,4.47427293064877
+Let Me Be Your Lover,Enrique Iglesias,509,0,0.0
+Dangerous,Jennifer Hudson,377,0,0.0
+L.A.LOVE (la la),Fergie,570,0,0.0
+Cake By The Ocean,DNCE,447,14,3.131991051454139
 Don't Let Me Down,The Chainsmokers,370,0,0.0
 In the Name of Love,Martin Garrix,285,0,0.0
 Into You,Ariana Grande,473,0,0.0
 This Is What You Came For,Calvin Harris,248,0,0.0
 Million Reasons,Lady Gaga,360,0,0.0
-Needed Me,Rihanna,292,14,4.794520547945205
+Needed Me,Rihanna,292,12,4.10958904109589
 7 Years,Lukas Graham,435,0,0.0
-Work from Home (feat. Ty Dolla $ign),Fifth Harmony,546,2,0.3663003663003663
+Work from Home (feat. Ty Dolla $ign),Fifth Harmony,546,1,0.18315018315018314
 Scars To Your Beautiful,Alessia Cara,437,0,0.0
 Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,338,0,0.0
-Work,Rihanna,572,2,0.34965034965034963
-"Me, Myself & I",G-Eazy,665,7,1.0526315789473684
+Work,Rihanna,572,1,0.17482517482517482
+"Me, Myself & I",G-Eazy,665,6,0.9022556390977444
 I Took A Pill In Ibiza - Seeb Remix,Mike Posner,305,1,0.32786885245901637
 Dangerous Woman,Ariana Grande,391,0,0.0
 Starving,Hailee Steinfeld,272,0,0.0
@@ -364,123 +364,123 @@ Electric Love,BÃRNS,190,0,0.0
 Confident,Demi Lovato,308,1,0.3246753246753247
 Too Good,Drake,553,0,0.0
 Roses,The Chainsmokers,230,0,0.0
-Cold Water (feat. Justin Bieber & MÃ),Major Lazer,546,2,0.3663003663003663
-Me Too,Meghan Trainor,358,4,1.1173184357541899
-Light It Up (feat. Nyla & Fuse ODG) [Remix],Major Lazer,546,2,0.3663003663003663
+Cold Water (feat. Justin Bieber & MÃ),Major Lazer,546,1,0.18315018315018314
+Me Too,Meghan Trainor,358,0,0.0
+Light It Up (feat. Nyla & Fuse ODG) [Remix],Major Lazer,546,1,0.18315018315018314
 Ain't Your Mama,Jennifer Lopez,492,0,0.0
 Close,Nick Jonas,409,0,0.0
 Toothbrush,DNCE,432,0,0.0
-All We Know,The Chainsmokers,228,2,0.8771929824561403
+All We Know,The Chainsmokers,228,0,0.0
 Final Song,MÃ,448,0,0.0
 Hands To Myself,Selena Gomez,302,0,0.0
 All I Ask,Adele,290,0,0.0
-"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",P!nk,16208,75,0.46273445212240866
+"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",P!nk,16208,14,0.0863770977295163
 NO,Meghan Trainor,669,0,0.0
 Kill Em With Kindness,Selena Gomez,218,0,0.0
 Cool Girl,Tove Lo,365,1,0.273972602739726
 Perfect Illusion,Lady Gaga,341,0,0.0
-PILLOWTALK,ZAYN,332,9,2.710843373493976
+PILLOWTALK,ZAYN,332,6,1.8072289156626504
 Out Of The Woods,Taylor Swift,676,0,0.0
 Rise,Katy Perry,261,0,0.0
 Wherever I Go,OneRepublic,306,0,0.0
-Body Say,Demi Lovato,381,3,0.7874015748031495
+Body Say,Demi Lovato,381,0,0.0
 Don't Be A Fool,Shawn Mendes,322,0,0.0
 LIKE I WOULD,ZAYN,359,0,0.0
 Cheap Thrills,Sia,352,0,0.0
 I Got You,Bebe Rexha,358,0,0.0
 Run Away With Me,Carly Rae Jepsen,423,0,0.0
-Cruel (feat. ZAYN),Snakehips,410,3,0.7317073170731708
+Cruel (feat. ZAYN),Snakehips,410,0,0.0
 Send My Love (To Your New Lover),Adele,412,0,0.0
 WTF (Where They From),Missy Elliott,648,8,1.2345679012345678
 Desire,Years & Years,269,0,0.0
 When We Were Young,Adele,390,0,0.0
 I Know What You Did Last Summer,Shawn Mendes,688,0,0.0
-Wish That You Were Here - From ÂMiss PeregrineÂs Home for Peculiar ChildrenÂ Original Motion Picture,Florence + The Machine,28463,81,0.2845799810280013
+Wish That You Were Here - From ÂMiss PeregrineÂs Home for Peculiar ChildrenÂ Original Motion Picture,Florence + The Machine,28463,1,0.0035133330991111264
 Hurts,Emeli SandÃ©,322,2,0.6211180124223602
 Change,Christina Aguilera,232,0,0.0
 Make Me... (feat. G-Eazy),Britney Spears,310,1,0.3225806451612903
 Keeping Your Head Up,Birdy,379,0,0.0
 True Colors,Zedd,208,0,0.0
 Make Me Like You,Gwen Stefani,474,0,0.0
-Champagne Problems,Nick Jonas,318,4,1.257861635220126
-Blown,DNCE,447,4,0.8948545861297539
+Champagne Problems,Nick Jonas,318,0,0.0
+Blown,DNCE,447,2,0.44742729306487694
 Start,John Legend,230,0,0.0
 Pep Rally,Missy Elliott,916,1,0.10917030567685589
 Higher,Carly Rae Jepsen,381,0,0.0
 Invitation,Britney Spears,262,0,0.0
 One Call Away (feat. Tyga) - Remix,Charlie Puth,286,0,0.0
-Beautiful Birds (feat. Birdy),Passenger,167,1,0.5988023952095809
+Beautiful Birds (feat. Birdy),Passenger,167,0,0.0
 Little Lies,Hilary Duff,215,0,0.0
 Do You Wanna Come Over?,Britney Spears,414,0,0.0
 BURNITUP!,Janet Jackson,668,0,0.0
 Picky - Remix,Joey Montana,529,0,0.0
-Behind Your Back,Nelly Furtado,231,2,0.8658008658008658
+Behind Your Back,Nelly Furtado,231,0,0.0
 Million Years Ago,Adele,293,0,0.0
 Shape of You,Ed Sheeran,672,0,0.0
 Closer,The Chainsmokers,361,0,0.0
-Starboy,The Weeknd,495,21,4.242424242424243
+Starboy,The Weeknd,495,13,2.6262626262626263
 Treat You Better,Shawn Mendes,300,0,0.0
 That's What I Like,Bruno Mars,544,4,0.7352941176470588
 Let Me Love You,DJ Snake,363,0,0.0
 I Feel It Coming,The Weeknd,521,0,0.0
 Mercy,Shawn Mendes,335,0,0.0
-Side To Side,Ariana Grande,519,3,0.5780346820809248
+Side To Side,Ariana Grande,519,2,0.3853564547206166
 Stay,Zedd,299,0,0.0
 It Ain't Me (with Selena Gomez),Kygo,333,0,0.0
 Malibu,Miley Cyrus,268,0,0.0
 Something Just Like This,The Chainsmokers,282,0,0.0
 Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,279,0,0.0
-I DonÂt Wanna Live Forever (Fifty Shades Darker),ZAYN,294,1,0.3401360544217687
+I DonÂt Wanna Live Forever (Fifty Shades Darker),ZAYN,294,0,0.0
 My Way,Calvin Harris,327,0,0.0
-"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,318,2,0.628930817610063
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,318,0,0.0
 Praying,Kesha,278,0,0.0
 Despacito - Remix,Luis Fonsi,515,0,0.0
 The Greatest,Sia,514,0,0.0
 There for You,Martin Garrix,333,0,0.0
-Paris,The Chainsmokers,419,1,0.23866348448687352
+Paris,The Chainsmokers,419,0,0.0
 Crying in the Club,Camila Cabello,489,0,0.0
 Mama,Jonas Blue,359,0,0.0
-Slide (feat. Frank Ocean & Migos),Calvin Harris,877,6,0.6841505131128849
+Slide (feat. Frank Ocean & Migos),Calvin Harris,877,2,0.22805017103762829
 Swish Swish,Katy Perry,480,6,1.25
-Chained To The Rhythm,Katy Perry,503,2,0.3976143141153081
-Cold (feat. Future),Maroon 5,351,1,0.2849002849002849
+Chained To The Rhythm,Katy Perry,503,0,0.0
+Cold (feat. Future),Maroon 5,351,0,0.0
 Love,Lana Del Rey,299,0,0.0
 ReggaetÃ³n Lento (Remix),CNCO,579,0,0.0
 First Time,Kygo,303,0,0.0
 The Cure,Lady Gaga,342,0,0.0
-"How Far I'll Go - From ""Moana""",Alessia Cara,2959,13,0.43933761405880367
-Bodak Yellow,Cardi B,698,26,3.7249283667621778
-Rich Love (with Seeb),OneRepublic,466,1,0.2145922746781116
+"How Far I'll Go - From ""Moana""",Alessia Cara,2959,2,0.06759040216289286
+Bodak Yellow,Cardi B,698,24,3.4383954154727796
+Rich Love (with Seeb),OneRepublic,466,0,0.0
 Tired,Alan Walker,286,0,0.0
 Came Here for Love,Sigala,313,0,0.0
-24K Magic,Bruno Mars,465,5,1.0752688172043012
+24K Magic,Bruno Mars,465,4,0.8602150537634409
 Strip That Down (feat. Quavo),Liam Payne,87,0,0.0
 Cut To The Feeling,Carly Rae Jepsen,444,0,0.0
 Bon appÃ©tit,Katy Perry,539,0,0.0
-Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,1714,16,0.9334889148191364
-Get Low (with Liam Payne),Zedd,315,3,0.9523809523809524
-Kissing Strangers,DNCE,350,4,1.1428571428571428
+Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,1714,5,0.29171528588098017
+Get Low (with Liam Payne),Zedd,315,0,0.0
+Kissing Strangers,DNCE,350,2,0.5714285714285714
 Slow Hands,Niall Horan,277,0,0.0
 Younger Now,Miley Cyrus,207,0,0.0
 Body Moves,DNCE,504,0,0.0
 Angel,Fifth Harmony,446,4,0.8968609865470852
-Touch (feat. Kid Ink),Little Mix,394,2,0.5076142131979695
+Touch (feat. Kid Ink),Little Mix,394,0,0.0
 We Don't Talk Anymore - DROELOE Remix,Charlie Puth,385,0,0.0
-Love Incredible (feat. Camila Cabello),Cashmere Cat,477,1,0.20964360587002098
+Love Incredible (feat. Camila Cabello),Cashmere Cat,477,0,0.0
 No Vacancy (with SebastiÃ¡n Yatra),OneRepublic,377,0,0.0
 Rich Boy,Galantis,303,0,0.0
 Lust for Life (with The Weeknd),Lana Del Rey,485,0,0.0
 Greenlight (feat. Flo Rida & LunchMoney Lewis),Pitbull,251,1,0.398406374501992
-Influence,Tove Lo,471,1,0.21231422505307856
-Remember I Told You,Nick Jonas,413,6,1.4527845036319613
-Messin' Around,Pitbull,596,3,0.5033557046979865
+Influence,Tove Lo,471,0,0.0
+Remember I Told You,Nick Jonas,413,3,0.7263922518159807
+Messin' Around,Pitbull,596,0,0.0
 Water Under the Bridge,Adele,414,0,0.0
 Free Me,Sia,280,0,0.0
-Kissing Strangers - Remix,DNCE,366,4,1.092896174863388
+Kissing Strangers - Remix,DNCE,366,2,0.546448087431694
 A L I E N S,Coldplay,187,0,0.0
-One Kiss (with Dua Lipa),Calvin Harris,199,1,0.5025125628140703
-Havana (feat. Young Thug),Camila Cabello,877,6,0.6841505131128849
-I Like It,Cardi B,793,9,1.1349306431273645
+One Kiss (with Dua Lipa),Calvin Harris,199,0,0.0
+Havana (feat. Young Thug),Camila Cabello,877,2,0.22805017103762829
+I Like It,Cardi B,793,7,0.8827238335435058
 New Rules,Dua Lipa,488,0,0.0
 There's Nothing Holdin' Me Back,Shawn Mendes,340,0,0.0
 no tears left to cry,Ariana Grande,504,0,0.0
@@ -490,83 +490,83 @@ Wolves,Selena Gomez,366,0,0.0
 Dusk Till Dawn - Radio Edit,ZAYN,396,0,0.0
 Attention,Charlie Puth,499,0,0.0
 Electricity (with Dua Lipa),Silk City,424,1,0.2358490566037736
-Love On The Brain,Rihanna,332,4,1.2048192771084338
-"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,334,1,0.29940119760479045
+Love On The Brain,Rihanna,332,3,0.9036144578313252
+"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,334,0,0.0
 Silence,Marshmello,281,0,0.0
-Sorry Not Sorry,Demi Lovato,496,8,1.6129032258064515
+Sorry Not Sorry,Demi Lovato,496,4,0.8064516129032258
 Shallow - Radio Edit,Lady Gaga,179,0,0.0
 These Days,Rudimental,458,0,0.0
-What Lovers Do (feat. SZA),Maroon 5,254,2,0.7874015748031495
-Finesse - Remix; feat. Cardi B,Bruno Mars,1816,6,0.3303964757709251
-Perfect Duet (Ed Sheeran & BeyoncÃ©),Ed Sheeran,294,3,1.0204081632653061
+What Lovers Do (feat. SZA),Maroon 5,254,0,0.0
+Finesse - Remix; feat. Cardi B,Bruno Mars,1816,4,0.22026431718061676
+Perfect Duet (Ed Sheeran & BeyoncÃ©),Ed Sheeran,294,0,0.0
 Bad At Love,Halsey,415,1,0.24096385542168677
 Him & I (with Halsey),G-Eazy,395,0,0.0
-Friends (with BloodPopÂ®),Justin Bieber,527,4,0.7590132827324478
+Friends (with BloodPopÂ®),Justin Bieber,527,1,0.18975332068311196
 Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,498,0,0.0
-My My My!,Troye Sivan,262,2,0.7633587786259541
+My My My!,Troye Sivan,262,0,0.0
 Capital Letters,Hailee Steinfeld,483,0,0.0
 Sick Boy,The Chainsmokers,459,0,0.0
 Tequila,Dan + Shay,324,0,0.0
 Look What You Made Me Do,Taylor Swift,563,0,0.0
-Youth (feat. Khalid),Shawn Mendes,340,2,0.5882352941176471
+Youth (feat. Khalid),Shawn Mendes,340,0,0.0
 Bad Liar,Selena Gomez,439,0,0.0
 Anywhere,Rita Ora,405,0,0.0
 Say Something,Justin Timberlake,454,0,0.0
-Chun-Li,Nicki Minaj,438,20,4.5662100456621
+Chun-Li,Nicki Minaj,438,17,3.881278538812785
 Sign of the Times,Harry Styles,362,0,0.0
-Familiar,Liam Payne,498,2,0.4016064257028112
+Familiar,Liam Payne,498,0,0.0
 Let Me,ZAYN,338,0,0.0
 Supernova,Ansel Elgort,318,2,0.628930817610063
 Nervous,Shawn Mendes,428,0,0.0
-End Game,Taylor Swift,716,1,0.13966480446927373
+End Game,Taylor Swift,716,0,0.0
 Mi Gente (feat. BeyoncÃ©),J Balvin,422,0,0.0
-Lemon,N.E.R.D,594,20,3.3670033670033668
-For You (With Rita Ora),Liam Payne,236,2,0.847457627118644
+Lemon,N.E.R.D,594,13,2.1885521885521886
+For You (With Rita Ora),Liam Payne,236,0,0.0
 Want To,Dua Lipa,265,0,0.0
-What I Need (feat. Kehlani),Hayley Kiyoko,113,1,0.8849557522123894
+What I Need (feat. Kehlani),Hayley Kiyoko,113,0,0.0
 Wait,Maroon 5,385,0,0.0
 What About Us,P!nk,313,0,0.0
-2U (feat. Justin Bieber),David Guetta,314,1,0.3184713375796179
+2U (feat. Justin Bieber),David Guetta,314,0,0.0
 Walk On Water (feat. BeyoncÃ©),Eminem,305,0,0.0
 This Town,Niall Horan,323,0,0.0
-"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",Rita Ora,412,1,0.24271844660194172
+"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",Rita Ora,412,0,0.0
 MOVE TO MIAMI,Enrique Iglesias,397,2,0.5037783375314862
-Miss You (with Major Lazer & Tory Lanez),Cashmere Cat,527,4,0.7590132827324478
+Miss You (with Major Lazer & Tory Lanez),Cashmere Cat,527,1,0.18975332068311196
 Filthy,Justin Timberlake,458,0,0.0
 Never Be the Same - Radio Edit,Camila Cabello,429,0,0.0
-Ferrari,Bebe Rexha,283,1,0.35335689045936397
+Ferrari,Bebe Rexha,283,0,0.0
 Supplies,Justin Timberlake,404,3,0.7425742574257426
 Boom Boom,RedOne,531,2,0.3766478342749529
 ...Ready For It? - BloodPopÂ® Remix,Taylor Swift,358,0,0.0
 Drip (feat. Migos),Cardi B,219,1,0.45662100456621
 Tell Me You Love Me - NOTD Remix,Demi Lovato,388,0,0.0
-Memories,Maroon 5,399,2,0.5012531328320802
-Lose You To Love Me,Selena Gomez,349,1,0.28653295128939826
+Memories,Maroon 5,399,0,0.0
+Lose You To Love Me,Selena Gomez,349,0,0.0
 Someone You Loved,Lewis Capaldi,312,0,0.0
 SeÃ±orita,Shawn Mendes,355,0,0.0
 How Do You Sleep?,Sam Smith,329,0,0.0
-South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,458,1,0.21834061135371177
-Trampoline (with ZAYN),SHAED,458,1,0.21834061135371177
+South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,458,0,0.0
+Trampoline (with ZAYN),SHAED,458,0,0.0
 Happier,Marshmello,389,0,0.0
-Truth Hurts,Lizzo,518,7,1.3513513513513513
-Good as Hell (feat. Ariana Grande) - Remix,Lizzo,440,4,0.9090909090909091
+Truth Hurts,Lizzo,518,5,0.9652509652509652
+Good as Hell (feat. Ariana Grande) - Remix,Lizzo,440,2,0.45454545454545453
 Higher Love,Kygo,337,0,0.0
 Only Human,Jonas Brothers,331,0,0.0
-Beautiful People (feat. Khalid),Ed Sheeran,474,1,0.21097046413502107
+Beautiful People (feat. Khalid),Ed Sheeran,474,0,0.0
 Sucker,Jonas Brothers,385,0,0.0
 Don't Call Me Up,Mabel,443,0,0.0
-I Don't Care (with Justin Bieber),Ed Sheeran,455,2,0.43956043956043955
+I Don't Care (with Justin Bieber),Ed Sheeran,455,1,0.21978021978021978
 Talk (feat. Disclosure),Khalid,255,0,0.0
-Giant (with Rag'n'Bone Man),Calvin Harris,397,2,0.5037783375314862
+Giant (with Rag'n'Bone Man),Calvin Harris,397,0,0.0
 Takeaway,The Chainsmokers,375,0,0.0
 All Around The World (La La La),R3HAB,374,0,0.0
-Girls Like You (feat. Cardi B),Maroon 5,460,2,0.43478260869565216
+Girls Like You (feat. Cardi B),Maroon 5,460,1,0.21739130434782608
 Call You Mine,The Chainsmokers,428,0,0.0
 No Guidance (feat. Drake),Chris Brown,87,0,0.0
-Antisocial (with Travis Scott),Ed Sheeran,458,1,0.21834061135371177
+Antisocial (with Travis Scott),Ed Sheeran,458,0,0.0
 "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,425,1,0.2352941176470588
 Con Calma - Remix,Daddy Yankee,592,0,0.0
-Find U Again (feat. Camila Cabello),Mark Ronson,425,1,0.2352941176470588
+Find U Again (feat. Camila Cabello),Mark Ronson,425,0,0.0
 Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,412,0,0.0
 "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",DJ Khaled,158,0,0.0
 Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,263,0,0.0
