@@ -28,7 +28,9 @@ The main communication source for this project will be through GitHub and Slack.
 Our full presentation can be found on [google slides](https://docs.google.com/presentation/d/1FcxS6b_bGPB0cDON7tFWfnrfn7OkDUYdnvs2HvQcbnk/edit?usp=sharing).
 
 ## Data Source
-We used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/main/top10s.csv)" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010- 2019), and has a strong set of song characteristics concerning title, artist, and genre. You can access the full dataset here - https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+For our song list we used a "[top10s.csv](https://github.com/CBrew913/music_analysis_project/blob/main/top10s.csv)" dataset sourced from Kaggle. We chose this dataset because it is relative to the information we are interested in. It covers several years of interest (2010 - 2019), and has a strong set of song characteristics concerning title, artist, genre, and Spotify's popularity metric. You can access the full dataset here - https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+
+For our lyrics, we used [LyricsGenius](https://lyricsgenius.readthedocs.io/en/master/), a Python API wrapper for the [Genius API](https://docs.genius.com/#/getting-started-h1) that makes it easy to pull song lyrics from the genius [website](https://genius.com/ "website"). The raw dataset ([lyric_data.csv](https://github.com/CBrew913/music_analysis_project/blob/main/data/lyric_data.csv)) was pulled in the [lyricsgenius.ipynb](https://github.com/CBrew913/music_analysis_project/blob/main/lyricsgenius.ipynb) file.
 
 ![image](https://user-images.githubusercontent.com/103297084/201815514-796ce9f3-c7db-45d4-962f-be2da517f3dc.png)
 
