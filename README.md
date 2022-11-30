@@ -65,7 +65,7 @@ For our connection string we have used Amazon Web Servers for our Database and c
 
 ## Machine Learning Model
 
-We wanted to know if there was a relationship between profanity of music and if that had any effect on the popularity of songs over time. Therefore, we chose to use a Linear Regression model. This use the processed data that was discussed above, using the year the song was produced as the independant variable, and the percentage of bad words of each song as the dependant variable. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
+We wanted to know if there was a relationship between profanity of music and if that had any effect on the popularity of songs over time. Therefore, we chose to use a Linear Regression model. This use the processed data that was outlined above, using the year the song was produced as the independant variable, and the percentage of bad words of each song as the dependant variable. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
 
@@ -76,6 +76,12 @@ A benefit of this is that there is a visual that is easy to interpret of the rel
 The data was split into the training and testing sets using sklearn.model_selection where X is the time in years, and y is the percetage of bad words in each song. 
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Train_Test.PNG)
+
+The results show that there is very little correlation between time and perecent of curse words. 
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/accuracy.PNG)
+
+We decided that this is the best learning model to answer our overall question, so therefore we didn't do any model changes between Segement 2 and Segment 3. 
 
 ## Dashboard
 
