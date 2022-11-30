@@ -60,6 +60,15 @@ During the analysis phase the data was cleaned of all unnecessary characters inc
 
 ![image](https://user-images.githubusercontent.com/103297084/202476728-3f0f86c9-c0af-44b5-b45c-89259a81a6a0.png)
 
+### Table SQL:
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/daniels_branch/createsqla.png)
+![image](https://github.com/CBrew913/music_analysis_project/blob/daniels_branch/createsqlb.png)
+
+
+
+
+
 ### Connection string
 For our connection string we have used Amazon Web Servers for our Database and connecting through pgAdmin.  
 
