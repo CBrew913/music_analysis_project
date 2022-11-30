@@ -63,6 +63,7 @@ During the analysis phase the data was cleaned of all unnecessary characters inc
 ### Table SQL:
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/daniels_branch/createsqla.png)
+
 ![image](https://github.com/CBrew913/music_analysis_project/blob/daniels_branch/createsqlb.png)
 
 
