@@ -65,29 +65,11 @@ For our connection string we have used Amazon Web Servers for our Database and c
 
 ## Machine Learning Model
 
-Description of data preprocessing
-✓ Description of feature engineering and the
-feature selection, including their decisionmaking
-process
-✓ Description of how data was split into
-training and testing sets
-✓ Explanation of model choice, including
-limitations and benefits
-✓ Explanation of changes in model choice (if
-changes occurred between the Segment 2
-and Segment 3 deliverables)
-✓ Description of how they have trained the
-model thus far, and any additional training
-that will take place
-✓ Description of current accuracy score
-Additionally, the model obviously addresses
-the question or problem the team is solving.
-
-The machine learning model that will be utilized is a Linear Regression model. This will take in data from the sources mentioned above (Daniel's branch) and will be taking the input variables of percentage of curse words in each song and how popular that song is. This will determine if there is a linear relationship between percentage of profanity and how popular the song is for that timeframe. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
+We wanted to know if there was a relationship between profanity of music and if that had any effect on the popularity of songs over time. Therefore, we chose to use a Linear Regression model. This use the processed data that was discussed above, using the year the song was produced as the independant variable, and the percentage of bad words of each song as the dependant variable. If it is a positive linear relationship then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. 
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
 
-We chose the Machine Learning Model of Linear Regression to compare the two characteristics of Time and Percent of Profanity in each song to determine if the percent of profanity in songs is increasing over time. A benefit of this is that there is a visual that is easy to interpret of the relationship between the two characteristics, and is shown below. A limit to this is that is only allows us to connect two of the characteristics of the many variables that we have considered, including the popularity rating and genre if we wanted to do farther analysis. We have started to do farther machine learning analysis to determine if any questions can be answered, including other charactistics about our data. 
+A benefit of this is that there is a visual that is easy to interpret of the relationship between the two characteristics, and is shown below. The biggest flaw in this model is that it only allows us to compare two different characterisics of the many variables that we have considered, including the popularity rating and genre if we wanted to do farther analysis. 
 
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/LinReg_TimePerc_Graph.PNG)
 
