@@ -1,0 +1,547 @@
+pop_rating,artist,title,genre,perc_bad_words
+83,Train,"Hey, Soul Sister",neo mellow,0
+82,Eminem,Love The Way You Lie,detroit hip hop,0.8196721
+80,Kesha,TiK ToK,dance pop,0
+79,Lady Gaga,Bad Romance,dance pop,0.9596929
+78,Bruno Mars,Just the Way You Are,pop,0
+77,Justin Bieber,Baby,canadian pop,0
+77,Taio Cruz,Dynamite,dance pop,0.26954177
+77,OneRepublic,Secrets,dance pop,0
+76,Alicia Keys,Empire State of Mind (Part II) Broken Down,hip pop,0
+73,Rihanna,Only Girl (In The World),barbadian pop,0
+73,Flo Rida,Club Can't Handle Me (feat. David Guetta),dance pop,0
+73,Bruno Mars,Marry You,pop,0
+73,Mike Posner,Cooler Than Me - Single Mix,dance pop,0
+73,Lady Gaga,Telephone,dance pop,0
+72,Far East Movement,Like A G6,dance pop,0
+72,Usher,OMG (feat. will.i.am),atl hip hop,0
+71,Sean Kingston,Eenie Meenie,dance pop,0
+70,The Black Eyed Peas,The Time (Dirty Bit),dance pop,0
+69,Lady Gaga,Alejandro,dance pop,0
+69,Kesha,Your Love Is My Drug,dance pop,0
+68,The Black Eyed Peas,Meet Me Halfway,dance pop,0
+66,Adam Lambert,Whataya Want from Me,australian pop,0
+66,Kesha,Take It Off,dance pop,0
+65,Maroon 5,Misery,pop,0
+65,OneRepublic,All The Right Moves,dance pop,0
+65,Neon Trees,Animal,indie pop,0
+64,Selena Gomez & The Scene,Naturally,dance pop,0
+63,Enrique Iglesias,I Like It,dance pop,0
+63,Katy Perry,Teenage Dream,dance pop,0
+62,Katy Perry,California Gurls,dance pop,0.4796163
+62,Britney Spears,3,dance pop,0
+62,3OH!3,My First Kiss - feat. Ke$ha,dance pop,0
+62,Kesha,Blah Blah Blah (feat. 3OH!3),dance pop,0
+62,The Black Eyed Peas,Imma Be,dance pop,1.5209125
+62,Alicia Keys,Try Sleeping with a Broken Heart,hip pop,0
+61,David Guetta,Sexy Bitch (feat. Akon),dance pop,0
+59,Adam Lambert,If I Had You,australian pop,0
+59,The Black Eyed Peas,Rock That Body,dance pop,0.99601597
+58,Florence + The Machine,Dog Days Are Over,art pop,0
+57,Alicia Keys,Doesn't Mean Anything,hip pop,0
+57,Rihanna,Hard,barbadian pop,0.2766252
+56,Shakira,Loca,colombian pop,0
+56,Christina Aguilera,You Lost Me,dance pop,0
+55,Christina Aguilera,Not Myself Tonight,dance pop,0.6514658
+52,Tinie Tempah,Written in the Stars (feat. Eric Turner),dance pop,0
+52,Usher,DJ Got Us Fallin' In Love (feat. Pitbull),atl hip hop,0
+49,T.I.,Castle Walls (feat. Christina Aguilera),atl hip hop,0.93167704
+33,Taio Cruz,Break Your Heart,dance pop,0
+0,Martin Solveig,Hello,big room,0
+81,Christina Perri,A Thousand Years,dance pop,0
+80,Adele,Someone Like You,british soul,0
+79,Pitbull,Give Me Everything,dance pop,0
+76,Adele,Rolling in the Deep,british soul,0.18181819
+75,Bruno Mars,Grenade,pop,0
+75,Hot Chelle Rae,Tonight Tonight,dance pop,0
+74,Avril Lavigne,What the Hell,canadian pop,0
+73,Lady Gaga,Born This Way,dance pop,0
+73,Kanye West,Monster,chicago rap,5.666004
+72,LMFAO,Party Rock Anthem,dance pop,0
+72,Kesha,We R Who We R,dance pop,0.27855152
+72,Jessie J,Price Tag,australian pop,0.1912046
+72,OneRepublic,Good Life,dance pop,0
+69,Jennifer Lopez,On The Floor,dance pop,0.32786885
+69,Rihanna,What's My Name?,barbadian pop,0
+69,Chris Brown,Yeah 3x,dance pop,0.24875621
+68,David Guetta,Without You (feat. Usher),dance pop,0
+67,LMFAO,Sexy And I Know It,dance pop,0
+67,Lady Gaga,The Edge Of Glory,dance pop,0
+66,Katy Perry,E.T.,dance pop,0
+65,Britney Spears,Till the World Ends,dance pop,0
+64,Britney Spears,I Wanna Go,dance pop,0
+64,Kesha,Blow,dance pop,0
+64,Lady Gaga,You And I,dance pop,0
+63,Lady Gaga,Judas,dance pop,0
+63,Enrique Iglesias,Tonight (I'm Fuckin' You),dance pop,7.216495
+63,Mike Posner,Please Don't Go,dance pop,0
+61,Rihanna,We Found Love,barbadian pop,0
+61,Lady Gaga,Marry The Night,dance pop,0
+59,Britney Spears,Hold It Against Me,dance pop,0
+59,Jennifer Lopez,I'm Into You,dance pop,0.17452008
+58,Jennifer Lopez,Papi,dance pop,0
+58,Rihanna,Cheers (Drink To That),barbadian pop,0
+54,Rihanna,S&M Remix,barbadian pop,0.9560229
+50,Christina Perri,Jar of Hearts,dance pop,0
+46,Sleeping At Last,Turning Page,acoustic pop,0
+38,Nicki Minaj,Super Bass,dance pop,0.30165914
+38,P!nk,Raise Your Glass,dance pop,1.0075567
+31,Jennifer Lopez,Invading My Mind,dance pop,0
+27,Katy Perry,Last Friday Night (T.G.I.F.),dance pop,0
+25,Katy Perry,Firework,dance pop,0
+66,Katy Perry,Rise,dance pop,0
+80,David Guetta,Titanium (feat. Sia),dance pop,0
+79,Bruno Mars,Locked Out of Heaven,pop,1.2345679
+79,Coldplay,Paradise,permanent wave,0
+79,Maroon 5,Payphone,pop,1.5929203
+78,One Direction,What Makes You Beautiful,boy band,0
+77,Taylor Swift,I Knew You Were Trouble.,pop,0
+76,Carly Rae Jepsen,Call Me Maybe,canadian pop,0
+76,Selena Gomez & The Scene,Love You Like A Love Song,dance pop,0
+76,Adele,Set Fire to the Rain,british soul,0
+75,Taylor Swift,We Are Never Ever Getting Back Together,pop,0
+74,Kelly Clarkson,Stronger (What Doesn't Kill You),dance pop,0
+74,P!nk,Try,dance pop,0
+73,Nicki Minaj,Starships,dance pop,3.1331592
+73,Maroon 5,One More Night,pop,0
+73,Owl City,Good Time,pop,0
+72,The Wanted,Glad You Came,boy band,0
+72,Justin Bieber,Beauty And A Beat,canadian pop,0.30959752
+72,Pitbull,International Love,dance pop,0
+72,fun.,Some Nights,baroque pop,0.21052632
+71,Justin Bieber,Boyfriend,canadian pop,0
+71,Katy Perry,Part Of Me,dance pop,0
+69,Jessie J,Domino,australian pop,0
+68,Rihanna,Where Have You Been,barbadian pop,0
+68,Katy Perry,Wide Awake,dance pop,0
+67,Katy Perry,The One That Got Away,dance pop,0
+66,Jennifer Lopez,Dance Again,dance pop,0
+65,Chris Brown,Turn Up the Music,dance pop,0
+65,Ellie Goulding,Lights - Single Version,dance pop,0
+61,Rihanna,Diamonds,barbadian pop,0
+59,Pitbull,Don't Stop the Party (feat. TJR),dance pop,0
+57,Rihanna,You Da One,barbadian pop,0.19880715
+54,Gym Class Heroes,Stereo Hearts (feat. Adam Levine),dance pop,0
+38,Bruno Mars,It Will Rain,pop,0
+0,P!nk,Blow Me (One Last Kiss),dance pop,2.0618556
+88,Kelly Clarkson,Underneath the Tree,dance pop,0
+85,Avicii,Wake Me Up,big room,0
+81,One Direction,Story of My Life,boy band,0
+81,P!nk,Just Give Me a Reason (feat. Nate Ruess),dance pop,0
+80,The Script,Hall of Fame,celtic rock,0
+78,Katy Perry,Roar,dance pop,0
+78,Miley Cyrus,We Can't Stop,dance pop,0
+78,Swedish House Mafia,Don't You Worry Child - Radio Edit,big room,0
+77,Miley Cyrus,Wrecking Ball,dance pop,0
+77,James Arthur,Impossible,pop,0
+76,Robin Thicke,Blurred Lines,dance pop,0.6702413
+76,Demi Lovato,Heart Attack,dance pop,0
+75,Kesha,Die Young,dance pop,0
+75,Zedd,Clarity,complextro,0
+74,Calvin Harris,Under Control,dance pop,0
+74,Neon Trees,Everybody Talks,indie pop,0.35460994
+73,Drake,"Hold On, We''re Going Home",canadian hip hop,0
+73,One Direction,Best Song Ever,boy band,0
+73,One Direction,Kiss You,boy band,0
+72,Calvin Harris,Sweet Nothing (feat. Florence Welch),dance pop,0
+72,Daft Punk,Lose Yourself to Dance,electro,0
+71,Britney Spears,Work Bitch,dance pop,2.4390244
+71,Sara Bareilles,Brave,acoustic pop,0
+70,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),dance pop,0
+70,Pitbull,Feel This Moment (feat. Christina Aguilera),dance pop,0
+70,Labrinth,Beneath Your Beautiful,pop,0
+70,Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),dance pop,0
+69,Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),dance pop,0
+69,OneRepublic,If I Lose Myself - Alesso vs OneRepublic,dance pop,0
+68,Ariana Grande,The Way,dance pop,0
+68,Justin Timberlake,Suit & Tie,dance pop,0.9655172
+68,will.i.am,#thatPOWER,dance pop,0
+67,Icona Pop,I Love It (feat. Charli XCX),candy pop,0.16528925
+67,David Guetta,Play Hard (feat. Ne-Yo & Akon) - New Edit,dance pop,0
+66,Maroon 5,Daylight,pop,0
+65,Maroon 5,Love Somebody,pop,0
+65,Fergie,A Little Party Never Killed Nobody (All We Got),dance pop,0
+63,Little Mix,Move,dance pop,0
+62,The Wanted,Walks Like Rihanna,boy band,0
+61,Avril Lavigne,Rock N Roll,canadian pop,0.21929824
+61,Justin Bieber,Heartbreaker,canadian pop,0
+60,Justin Timberlake,Mirrors - Radio Edit,dance pop,0
+60,Demi Lovato,Made In The USA,dance pop,0
+59,Alicia Keys,Girl On Fire (feat. Nicki Minaj) - Inferno Version,hip pop,0
+58,Justin Timberlake,TKO,dance pop,0.36452004
+57,Selena Gomez,Come & Get It,dance pop,0
+57,Jennifer Lopez,Live It Up,dance pop,1.1627907
+56,The Wanted,We Own The Night,boy band,0
+54,Austin Mahone,What About Love,dance pop,0
+54,Justin Timberlake,Take Back the Night,dance pop,0
+52,Lady Gaga,Applause,dance pop,0
+52,Ellie Goulding,Anything Could Happen,dance pop,0
+52,Enrique Iglesias,Finally Found You,dance pop,0.47058824
+52,Jonas Brothers,Pom Poms,boy band,0
+51,Mariah Carey,#Beautiful,dance pop,3.3834586
+50,Little Mix,How Ya Doin'? (feat. Missy Elliott),dance pop,0
+46,Kesha,Crazy Kids (feat. will.i.am),dance pop,0
+45,Britney Spears,Ooh La La (from The Smurfs 2),dance pop,0
+45,Kelly Clarkson,People Like Us,dance pop,0
+43,Ciara,Overdose,dance pop,0
+42,Rihanna,Right Now - Dyro Radio Edit,barbadian pop,0
+41,Robin Thicke,Give It 2 U,dance pop,0.19157088
+36,Jewel,Foolish Games,alaska indie,0
+35,Pitbull,Outta Nowhere (feat. Danny Mercer),dance pop,0.46728972
+28,Kelly Rowland,Freak,atl hip hop,0.5464481
+86,John Legend,All of Me,neo mellow,0
+85,Sam Smith,Stay With Me,pop,0
+80,Calvin Harris,Summer,dance pop,0
+79,MAGIC!,Rude,pop,0
+78,Taylor Swift,Shake It Off,pop,0
+78,Katy Perry,Dark Horse,dance pop,0
+78,Avicii,Hey Brother,big room,0
+78,Maroon 5,Maps,pop,0
+77,Bruno Mars,Treasure,pop,0
+77,Passenger,Let Her Go,folk-pop,0
+75,Ariana Grande,Problem,dance pop,0
+73,Bastille,Pompeii,metropopolis,0
+73,Lorde,Team,art pop,0
+73,John Newman,Love Me Again,pop,0
+72,Disclosure,Latch,house,0
+72,Miley Cyrus,Adore You,dance pop,0
+71,Michael Jackson,Love Never Felt So Good,pop,0
+71,Ellie Goulding,Burn,dance pop,0
+71,5 Seconds of Summer,She Looks So Perfect,boy band,0
+70,Iggy Azalea,Fancy,australian hip hop,0.42194092
+68,Jason Derulo,Talk Dirty (feat. 2 Chainz),dance pop,0.58365756
+68,Bruno Mars,Gorilla,pop,0.74812967
+68,Christina Perri,human,dance pop,0
+67,Bruno Mars,Young Girls,pop,0
+67,Jason Derulo,Wiggle (feat. Snoop Dogg),dance pop,1.6949153
+66,OneRepublic,Love Runs Out,dance pop,0
+66,Katy Perry,This Is How We Do,dance pop,0
+65,Austin Mahone,Mmm Yeah (feat. Pitbull),dance pop,0
+65,The Chainsmokers,#SELFIE,electropop,0.28818443
+65,Katy Perry,Birthday,dance pop,0
+65,Lady Gaga,G.U.Y.,dance pop,0.26041666
+64,Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,complextro,0
+63,Demi Lovato,Let It Go - From Frozen / Single Version,dance pop,0.032020494
+62,Birdy,Wings,neo mellow,0
+62,Shakira,Can't Remember to Forget You (feat. Rihanna),colombian pop,0
+61,David Guetta,Shot Me Down (feat. Skylar Grey) - Radio Edit,dance pop,0.0617411
+61,A Great Big World,Say Something,neo mellow,0
+60,Coldplay,A Sky Full of Stars,permanent wave,0
+59,Pharrell Williams,Come Get It Bae,dance pop,0.21276596
+56,Sia,Chandelier,australian dance,0
+56,Pitbull,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song],dance pop,0
+56,Birdy,Not About Angels,neo mellow,0
+50,Nicki Minaj,Anaconda,dance pop,3.7156703
+50,Shakira,La La La (Brasil 2014) (feat. Carlinhos Brown),colombian pop,0
+49,Birdy,Tee Shirt - Soundtrack Version,neo mellow,0.0999001
+44,Birdy,Words as Weapons,neo mellow,0
+38,Mariah Carey,You're Mine (Eternal),dance pop,0
+37,Lily Allen,Sheezus,dance pop,0.5050505
+37,Lea Michele,Cannonball,hollywood,0
+30,Alicia Keys,It's On Again - Main Soundtrack,hip pop,0.14892033
+28,Jennifer Lopez,I Luh Ya Papi,dance pop,0.38510913
+0,Justin Timberlake,Not a Bad Thing,dance pop,0.6507592
+84,Ed Sheeran,Thinking out Loud,pop,0
+84,Sam Smith,I'm Not The Only One,pop,0
+84,The Weeknd,The Hills,canadian contemporary r&b,3.2467532
+83,Justin Bieber,Love Yourself,canadian pop,0
+82,Mark Ronson,Uptown Funk,dance pop,0.13908206
+81,Hozier,Take Me To Church,irish singer-songwriter,0
+81,Maroon 5,Sugar,pop,0
+81,Justin Bieber,Sorry,canadian pop,0
+80,Rihanna,FourFiveSeconds,barbadian pop,0
+79,Ellie Goulding,Love Me Like You Do - From Fifty Shades Of Grey,dance pop,0
+79,The Weeknd,Earned It (Fifty Shades Of Grey) - From The Fifty Shades Of Grey Soundtrack,canadian contemporary r&b,0
+79,Justin Bieber,What Do You Mean?,canadian pop,0
+78,Shawn Mendes,Stitches,canadian pop,0
+77,Jason Derulo,Want to Want Me,dance pop,0
+77,Flo Rida,My House,dance pop,0
+77,Mr. Probz,Waves - Robin Schulz Radio Edit,tropical house,0
+77,One Direction,Night Changes,boy band,0
+77,Calvin Harris,How Deep Is Your Love,dance pop,0
+77,Zara Larsson,Never Forget You,dance pop,0
+76,Ariana Grande,Love Me Harder,dance pop,0
+76,Maroon 5,Animals,pop,0
+76,Calvin Harris,Blame,dance pop,0
+75,Fifth Harmony,Worth It,dance pop,0
+75,Ariana Grande,Break Free,dance pop,0
+74,Ed Sheeran,Don't,pop,0.33444816
+73,Sia,Elastic Heart,australian dance,0
+73,Clean Bandit,Rather Be (feat. Jess Glynne),dance pop,0
+73,Adele,Hello,british soul,0
+72,Meghan Trainor,Dear Future Husband,dance pop,0
+72,Selena Gomez,The Heart Wants What It Wants,dance pop,0
+72,David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",dance pop,0
+72,Christina Aguilera,Genie In a Bottle,dance pop,0
+72,Justin Bieber,Company,canadian pop,0
+71,Ed Sheeran,Sing,pop,0
+70,Nick Jonas,Jealous - Remix,dance pop,0
+70,Demi Lovato,Really Don't Care,dance pop,0
+70,Macklemore & Ryan Lewis,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",dance pop,0
+69,Paloma Faith,Only Love Can Hurt Like This,british soul,0
+69,Kelly Clarkson,Heartbeat Song,dance pop,0
+69,Olly Murs,Up,dance pop,0
+69,Jason Derulo,Trumpets,dance pop,0
+69,Naughty Boy,Runnin' (Lose It All),tropical house,0
+69,Selena Gomez,Same Old Love,dance pop,0.80862534
+68,Zedd,I Want You To Know,complextro,0
+68,Meghan Trainor,Lips Are Movin,dance pop,0
+68,Justin Bieber,I'll Show You,canadian pop,0
+68,Alessia Cara,Here,canadian contemporary r&b,0
+67,OneRepublic,I Lived,dance pop,0
+67,Pitbull,Fireball (feat. John Ryan),dance pop,0
+67,Sigala,Easy Love,dance pop,0
+67,Justin Bieber,The Feeling,canadian pop,0
+66,Carly Rae Jepsen,I Really Like You,canadian pop,0
+66,Fifth Harmony,BO$$,dance pop,0.7832898
+66,Ariana Grande,Focus,dance pop,0.20920502
+65,Meghan Trainor,All About That Bass,dance pop,0.46620047
+65,Ellie Goulding,On My Mind,dance pop,0
+65,Little Mix,Love Me Like You,dance pop,0
+65,Avicii,Broken Arrows,big room,0
+64,Jennifer Lopez,Booty,dance pop,0
+64,Justin Bieber,What Do You Mean? - Acoustic,canadian pop,0
+63,Justin Bieber,Mark My Words,canadian pop,0
+62,Rudimental,Lay It All on Me,dance pop,0
+61,Rihanna,American Oxygen,barbadian pop,0
+61,Jessie J,Bang Bang,australian pop,0
+61,Lost Frequencies,Reality - Radio Edit,belgian edm,0.007983395
+61,Sia,Alive,australian dance,0
+60,Robin Schulz,Sugar (feat. Francesco Yates),dance pop,0.18315019
+60,Justin Bieber,Been You,canadian pop,0
+58,Lilly Wood and The Prick,Prayer in C - Robin Schulz Radio Edit,french indie pop,0
+56,Wiz Khalifa,See You Again (feat. Charlie Puth),hip hop,0
+56,Alesso,Heroes (we could be),big room,0
+55,Jennifer Lopez,Feel The Light - From The Home Soundtrack,dance pop,0.032020494
+55,One Direction,Perfect,boy band,0
+54,Madonna,Ghosttown,dance pop,0
+54,David Guetta,Bang My Head (feat. Sia & Fetty Wap),dance pop,0.18315019
+52,Ed Sheeran,Bloodstream,pop,0
+52,Madonna,Living For Love,dance pop,0
+52,Gwen Stefani,Baby Don't Lie,dance pop,0
+52,Jess Glynne,Don't Be so Hard on Yourself,dance pop,0
+51,One Direction,Steal My Girl,boy band,0
+49,Alicia Keys,We Are Here,hip pop,0
+47,Florence + The Machine,St Jude,art pop,0
+46,David Guetta,Yesterday (feat. Bebe Rexha),dance pop,0
+45,Pitbull,Time of Our Lives,dance pop,0.64412236
+44,Hilary Duff,Sparks,dance pop,0
+42,Ricky Martin,Mr. Put It Down,dance pop,0
+41,Katy Perry,Legendary Lovers,dance pop,0
+39,Gwen Stefani,Spark The Fire,dance pop,0
+36,Kelly Clarkson,Run Run Run,dance pop,0
+34,Enrique Iglesias,Let Me Be Your Lover,dance pop,0
+18,Jennifer Hudson,Dangerous,dance pop,0
+0,Fergie,L.A.LOVE (la la),dance pop,0
+81,DNCE,Cake By The Ocean,dance pop,3.1319911
+81,The Chainsmokers,Don't Let Me Down,electropop,0
+81,Martin Garrix,In the Name of Love,big room,0
+80,Ariana Grande,Into You,dance pop,0
+80,Calvin Harris,This Is What You Came For,dance pop,0
+80,Lady Gaga,Million Reasons,dance pop,0
+80,Rihanna,Needed Me,barbadian pop,4.109589
+80,Lukas Graham,7 Years,danish pop,0
+79,Fifth Harmony,Work from Home (feat. Ty Dolla $ign),dance pop,0.18315019
+79,Alessia Cara,Scars To Your Beautiful,canadian contemporary r&b,0
+79,Meghan Trainor,Like I'm Gonna Lose You (feat. John Legend),dance pop,0
+78,Rihanna,Work,barbadian pop,0.17482518
+78,G-Eazy,"Me, Myself & I",hip hop,0.90225565
+78,Mike Posner,I Took A Pill In Ibiza - Seeb Remix,dance pop,0.32786885
+78,Ariana Grande,Dangerous Woman,dance pop,0
+78,Hailee Steinfeld,Starving,dance pop,0
+77,Little Mix,Shout Out to My Ex,dance pop,0.1650165
+75,Demi Lovato,Confident,dance pop,0.32467532
+74,Drake,Too Good,canadian hip hop,0
+74,The Chainsmokers,Roses,electropop,0
+73,Meghan Trainor,Me Too,dance pop,0
+73,Major Lazer,Light It Up (feat. Nyla & Fuse ODG) [Remix],dance pop,0.18315019
+72,Jennifer Lopez,Ain't Your Mama,dance pop,0
+72,Nick Jonas,Close,dance pop,0
+72,DNCE,Toothbrush,dance pop,0
+72,The Chainsmokers,All We Know,electropop,0
+71,Selena Gomez,Hands To Myself,dance pop,0
+71,Adele,All I Ask,british soul,0
+71,P!nk,Just Like Fire (From the Original Motion Picture Alice Through The Looking Glass),dance pop,0.0863771
+70,Meghan Trainor,NO,dance pop,0
+70,Selena Gomez,Kill Em With Kindness,dance pop,0
+69,Tove Lo,Cool Girl,dance pop,0.2739726
+67,Lady Gaga,Perfect Illusion,dance pop,0
+66,ZAYN,PILLOWTALK,dance pop,1.8072289
+66,Taylor Swift,Out Of The Woods,pop,0
+66,OneRepublic,Wherever I Go,dance pop,0
+65,Demi Lovato,Body Say,dance pop,0
+65,Shawn Mendes,Don't Be A Fool,canadian pop,0
+65,ZAYN,LIKE I WOULD,dance pop,0
+64,Sia,Cheap Thrills,australian dance,0
+64,Bebe Rexha,I Got You,dance pop,0
+63,Carly Rae Jepsen,Run Away With Me,canadian pop,0
+63,Snakehips,Cruel (feat. ZAYN),dance pop,0
+61,Adele,Send My Love (To Your New Lover),british soul,0
+58,Missy Elliott,WTF (Where They From),dance pop,1.2345679
+58,Years & Years,Desire,dance pop,0
+58,Adele,When We Were Young,british soul,0
+57,Shawn Mendes,I Know What You Did Last Summer,canadian pop,0
+54,Christina Aguilera,Change,dance pop,0
+53,Britney Spears,Make Me... (feat. G-Eazy),dance pop,0.32258064
+52,Birdy,Keeping Your Head Up,neo mellow,0
+51,Zedd,True Colors,complextro,0
+50,Gwen Stefani,Make Me Like You,dance pop,0
+50,Nick Jonas,Champagne Problems,dance pop,0
+48,DNCE,Blown,dance pop,0.4474273
+47,John Legend,Start,neo mellow,0
+47,Missy Elliott,Pep Rally,dance pop,0.1091703
+46,Carly Rae Jepsen,Higher,canadian pop,0
+44,Britney Spears,Invitation,dance pop,0
+41,Charlie Puth,One Call Away (feat. Tyga) - Remix,dance pop,0
+36,Passenger,Beautiful Birds (feat. Birdy),folk-pop,0
+36,Hilary Duff,Little Lies,dance pop,0
+34,Britney Spears,Do You Wanna Come Over?,dance pop,0
+31,Janet Jackson,BURNITUP!,dance pop,0
+29,Joey Montana,Picky - Remix,latin,0
+18,Nelly Furtado,Behind Your Back,canadian latin,0
+0,Adele,Million Years Ago,british soul,0
+87,Ed Sheeran,Shape of You,pop,0
+86,The Chainsmokers,Closer,electropop,0
+85,The Weeknd,Starboy,canadian contemporary r&b,2.6262627
+84,Shawn Mendes,Treat You Better,canadian pop,0
+83,Bruno Mars,That's What I Like,pop,0.7352941
+82,DJ Snake,Let Me Love You,electronic trap,0
+81,The Weeknd,I Feel It Coming,canadian contemporary r&b,0
+81,Shawn Mendes,Mercy,canadian pop,0
+80,Ariana Grande,Side To Side,dance pop,0.38535646
+80,Zedd,Stay,complextro,0
+79,Kygo,It Ain't Me (with Selena Gomez),edm,0
+78,Miley Cyrus,Malibu,dance pop,0
+78,The Chainsmokers,Something Just Like This,electropop,0
+78,Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),dance pop,0
+78,Calvin Harris,My Way,dance pop,0
+77,DJ Khaled,"I''m the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",dance pop,0
+77,Kesha,Praying,dance pop,0
+76,Luis Fonsi,Despacito - Remix,latin,0
+76,Sia,The Greatest,australian dance,0
+76,Martin Garrix,There for You,big room,0
+76,The Chainsmokers,Paris,electropop,0
+75,Camila Cabello,Crying in the Club,dance pop,0
+75,Jonas Blue,Mama,dance pop,0
+75,Calvin Harris,Slide (feat. Frank Ocean & Migos),dance pop,0.22805017
+73,Katy Perry,Swish Swish,dance pop,1.25
+72,Katy Perry,Chained To The Rhythm,dance pop,0
+72,Maroon 5,Cold (feat. Future),pop,0
+72,Lana Del Rey,Love,art pop,0
+71,Kygo,First Time,edm,0
+71,Lady Gaga,The Cure,dance pop,0
+71,Alessia Cara,How Far I'll Go - From Moana,canadian contemporary r&b,0.0675904
+70,Cardi B,Bodak Yellow,pop,3.4383955
+70,OneRepublic,Rich Love (with Seeb),dance pop,0
+70,Alan Walker,Tired,electro house,0
+70,Sigala,Came Here for Love,dance pop,0
+69,Bruno Mars,24K Magic,pop,0.86021507
+69,Liam Payne,Strip That Down (feat. Quavo),dance pop,0
+69,Carly Rae Jepsen,Cut To The Feeling,canadian pop,0
+67,Lana Del Rey,Summer Bummer (feat. A$AP Rocky & Playboi Carti),art pop,0.2917153
+66,Zedd,Get Low (with Liam Payne),complextro,0
+66,DNCE,Kissing Strangers,dance pop,0.5714286
+64,Niall Horan,Slow Hands,dance pop,0
+62,Miley Cyrus,Younger Now,dance pop,0
+62,DNCE,Body Moves,dance pop,0
+59,Fifth Harmony,Angel,dance pop,0.89686096
+59,Little Mix,Touch (feat. Kid Ink),dance pop,0
+59,Charlie Puth,We Don't Talk Anymore - DROELOE Remix,dance pop,0
+59,Cashmere Cat,Love Incredible (feat. Camila Cabello),downtempo,0
+55,Galantis,Rich Boy,big room,0
+54,Lana Del Rey,Lust for Life (with The Weeknd),art pop,0
+54,Pitbull,Greenlight (feat. Flo Rida & LunchMoney Lewis),dance pop,0.3984064
+54,Tove Lo,Influence,dance pop,0
+53,Nick Jonas,Remember I Told You,dance pop,0.72639227
+51,Pitbull,Messin' Around,dance pop,0
+49,Adele,Water Under the Bridge,british soul,0
+44,Sia,Free Me,australian dance,0
+43,DNCE,Kissing Strangers - Remix,dance pop,0.5464481
+41,Coldplay,A L I E N S,permanent wave,0
+86,Calvin Harris,One Kiss (with Dua Lipa),dance pop,0
+85,Camila Cabello,Havana (feat. Young Thug),dance pop,0.22805017
+85,Cardi B,I Like It,pop,0.8827238
+84,Dua Lipa,New Rules,dance pop,0
+84,Shawn Mendes,There's Nothing Holdin' Me Back,canadian pop,0
+84,Ariana Grande,no tears left to cry,dance pop,0
+84,Dua Lipa,IDGAF,dance pop,1.5659956
+83,Shawn Mendes,In My Blood,canadian pop,0
+83,Selena Gomez,Wolves,dance pop,0
+83,ZAYN,Dusk Till Dawn - Radio Edit,dance pop,0
+83,Charlie Puth,Attention,dance pop,0
+82,Silk City,Electricity (with Dua Lipa),edm,0.23584905
+82,Rihanna,Love On The Brain,barbadian pop,0.90361446
+82,Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",dance pop,0
+82,Marshmello,Silence,brostep,0
+81,Demi Lovato,Sorry Not Sorry,dance pop,0.8064516
+80,Lady Gaga,Shallow - Radio Edit,dance pop,0
+80,Rudimental,These Days,dance pop,0
+79,Maroon 5,What Lovers Do (feat. SZA),pop,0
+78,Bruno Mars,Finesse - Remix; feat. Cardi B,pop,0.22026432
+78,Halsey,Bad At Love,dance pop,0.24096386
+78,G-Eazy,Him & I (with Halsey),hip hop,0
+76,DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),dance pop,0
+76,Troye Sivan,My My My!,dance pop,0
+76,Hailee Steinfeld,Capital Letters,dance pop,0
+76,The Chainsmokers,Sick Boy,electropop,0
+76,Dan + Shay,Tequila,contemporary country,0
+75,Taylor Swift,Look What You Made Me Do,pop,0
+75,Shawn Mendes,Youth (feat. Khalid),canadian pop,0
+75,Selena Gomez,Bad Liar,dance pop,0
+74,Rita Ora,Anywhere,dance pop,0
+74,Justin Timberlake,Say Something,dance pop,0
+73,Nicki Minaj,Chun-Li,dance pop,3.8812785
+72,Harry Styles,Sign of the Times,dance pop,0
+72,Liam Payne,Familiar,dance pop,0
+72,ZAYN,Let Me,dance pop,0
+72,Ansel Elgort,Supernova,dance pop,0.6289308
+71,Shawn Mendes,Nervous,canadian pop,0
+70,Taylor Swift,End Game,pop,0
+68,N.E.R.D,Lemon,hip hop,2.1885521
+67,Liam Payne,For You (With Rita Ora),dance pop,0
+67,Dua Lipa,Want To,dance pop,0
+67,Hayley Kiyoko,What I Need (feat. Kehlani),dance pop,0
+67,Maroon 5,Wait,pop,0
+66,P!nk,What About Us,dance pop,0
+65,David Guetta,2U (feat. Justin Bieber),dance pop,0
+64,Niall Horan,This Town,dance pop,0
+64,Rita Ora,"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",dance pop,0
+64,Enrique Iglesias,MOVE TO MIAMI,dance pop,0.50377834
+64,Cashmere Cat,Miss You (with Major Lazer & Tory Lanez),downtempo,0.18975332
+62,Justin Timberlake,Filthy,dance pop,0
+57,Camila Cabello,Never Be the Same - Radio Edit,dance pop,0
+57,Bebe Rexha,Ferrari,dance pop,0
+57,Justin Timberlake,Supplies,dance pop,0.7425743
+53,RedOne,Boom Boom,moroccan pop,0.37664783
+45,Cardi B,Drip (feat. Migos),pop,0.456621
+44,Demi Lovato,Tell Me You Love Me - NOTD Remix,dance pop,0
+99,Maroon 5,Memories,pop,0
+97,Selena Gomez,Lose You To Love Me,dance pop,0
+96,Lewis Capaldi,Someone You Loved,pop,0
+93,Sam Smith,How Do You Sleep?,pop,0
+92,Ed Sheeran,South of the Border (feat. Camila Cabello & Cardi B),pop,0
+92,SHAED,Trampoline (with ZAYN),electropop,0
+90,Marshmello,Happier,brostep,0
+90,Lizzo,Truth Hurts,escape room,0.96525097
+90,Lizzo,Good as Hell (feat. Ariana Grande) - Remix,escape room,0.45454547
+88,Kygo,Higher Love,edm,0
+87,Jonas Brothers,Only Human,boy band,0
+86,Ed Sheeran,Beautiful People (feat. Khalid),pop,0
+86,Jonas Brothers,Sucker,boy band,0
+86,Mabel,Don't Call Me Up,dance pop,0
+85,Ed Sheeran,I Don't Care (with Justin Bieber),pop,0.21978022
+84,Khalid,Talk (feat. Disclosure),alternative r&b,0
+84,Calvin Harris,Giant (with Rag'n'Bone Man),dance pop,0
+83,The Chainsmokers,Takeaway,electropop,0
+82,R3HAB,All Around The World (La La La),big room,0
+81,Maroon 5,Girls Like You (feat. Cardi B),pop,0.2173913
+81,The Chainsmokers,Call You Mine,electropop,0
+81,Chris Brown,No Guidance (feat. Drake),dance pop,0
+78,Ed Sheeran,Antisocial (with Travis Scott),pop,0
+77,DJ Snake,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",electronic trap,0.23529412
+76,Daddy Yankee,Con Calma - Remix,latin,0
+75,Mark Ronson,Find U Again (feat. Camila Cabello),dance pop,0
+75,Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),pop,0
+70,DJ Khaled,"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",dance pop,0
+69,Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),dance pop,0
+67,The Chainsmokers,Kills You Slowly,electropop,0.4878049
