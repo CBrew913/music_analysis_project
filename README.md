@@ -84,5 +84,9 @@ The interactive elements of our dashboard will be gliding over the points on the
 
 [Music Analysis Project](https://public.tableau.com/app/profile/julie.mcdaniel2469/viz/Musicproject/Story1?publish=yes)
 
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/Story.png)
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/artists.png)
+
 #### References
 1. https://www.loudlab.org/blog/spotify-popularity-leverage-algorithm/#:~:text=What%20is%20Spotify%27s%20Popularity%20Index,on%20algorithmic%20playlists%20and%20recommendations.
