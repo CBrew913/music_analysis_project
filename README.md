@@ -66,7 +66,7 @@ For our connection string we have used Amazon Web Servers for our Database and c
 
 We wanted to know if there was a relationship between profanity of music and if that had any effect on the popularity of songs over time. Therefore, we chose to use a Linear Regression model. This use the processed data that was outlined above, using the year the song was produced as the independent variable, and the percentage of bad words of each song as the dependent variable. If it is a positive linear relationship, then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true.
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/FlowChart.PNG)
 
 A benefit of this is that there is a visual that is easy to interpret of the relationship between the two characteristics and is shown below. The biggest flaw in this model is that it only allows us to compare two different characteristics of the many variables that we have considered, including the popularity rating and genre if we wanted to do farther analysis. 
 
