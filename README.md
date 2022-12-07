@@ -55,6 +55,10 @@ During the analysis phase the data was cleaned of all unnecessary characters inc
 #### Count Curse words
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/curse_words.jpg)
 
+#### Profanity Percentage
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/total_bad_words.jpg)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/perc_profanity.jpg)
+
 #### Final Columns
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/final_df.jpg)
 
