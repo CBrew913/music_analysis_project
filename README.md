@@ -37,6 +37,8 @@ The data exploration phase of the project was to determine the true content of t
 #### Header removal
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/header_removal.jpg)
 
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/header_example.jpg)
+
 #### Nall removal
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/removing_nan.jpg)
 
