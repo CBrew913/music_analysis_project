@@ -40,11 +40,11 @@ The data exploration phase of the project was to determine the true content of t
 #### Header removal
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/header_removal.jpg)
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/header_example.jpg)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/Header_example.jpg)
 
 #### Example of lyric with removals
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/lyric_example.jpg)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/Lyric_example.jpg)
 
 ### Analysis
 During the analysis phase the data was cleaned of all unnecessary characters including the \n, headers, footers, random adds, punctuation and all the null values within the data set.  Once the data was cleaned, we started analyzing the data.  This is where things are getting a little tricky.  We were able to determine the value counts for all the words within the lyrics and place them into their own column.  The harder piece of code is to find all the curse words and place them into their own column.  I was able to get the code to work with finding one instance of the word; however was unable to complete for counting the same word for more than one instance.  Overall, this process is taking longer than expected due to the complexity of natural language processing and counting through the rows.  
