@@ -64,23 +64,21 @@ For our connection string we have used Amazon Web Servers for our Database and c
 
 ## Machine Learning Model
 
-We wanted to know if there was a relationship between profanity of music and if that had any effect on the popularity of songs over time. Therefore, we chose to use a Linear Regression model. This use the processed data that was outlined above, using the year the song was produced as the independent variable, and the percentage of bad words of each song as the dependent variable. If it is a positive linear relationship, then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true.
+There were two major questions that we asked: (1) Did profanity in music increase over the years? and (2) Does an increase of profanity in songs cause an increase of popularity? 
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/FlowChart.PNG)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Images/FlowChart.PNG)
 
-A benefit of this is that there is a visual that is easy to interpret of the relationship between the two characteristics and is shown below. The biggest flaw in this model is that it only allows us to compare two different characteristics of the many variables that we have considered, including the popularity rating and genre if we wanted to do farther analysis. 
+We chose to use a Linear Regression model to answer both of these questions. A benefit of this is that there is a visual that is easy to interpret of the relationship between the two characteristics and is shown below. The biggest flaw in this model is that it only allows us to compare two different characteristics of the many variables that we have considered, including the popularity rating and genre if we wanted to do farther analysis. Both models used the processed data that was outlined above. Both models split into the training and testing sets using sklearn.model_selection where the X, independent variable, and the y, dependent variable are outline specifically below. 
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/LinReg_TimePerc_Graph.PNG)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Images/Train_Test.PNG)
 
-The data was split into the training and testing sets using sklearn.model_selection where X is the time in years, and y is the percentage of bad words in each song.
+To answer the first question, the year the song was produced as the independent variable, and the percentage of bad words of each song as the dependent variable. If it is a positive linear relationship, then the number of curse words does increase popularity and if there a negative linear relationship then that opposite is true. The results show that there is very little correlation between time and percent of curse words.
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Train_Test.PNG)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Images/LinReg_TimePerc_All.PNG)
 
-The results show that there is very little correlation between time and percent of curse words.
+Between Segment 3 and Segment 4, we continued to clean up the data to ensure that all information was accurate. We also chose to answer the 2nd question above using another Linear Regression. The percentage of bad words was used as the independent variable, and popularity rating of each song as the dependent variable. If it is a positive linear relationship, then an increase profanity does increase popularity, and if there a negative linear relationship then that opposite is true. The results show that there some positive correlation between the two values. However, we cannot conclude that this could be used as a predictor as to how popular a song could be depending just upon profanity. This also shows that there are other factors that could help predict how popular a song could be, including genre. 
 
-![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/accuracy.PNG)
-
-Between Segment 2 and Segment 3, we continued to clean up the data to ensure that all information was accurate. However, we didn't do any model changes in that time frame as we still fill the linear regression model was still the most accurate to answer our overall question of where there was a relationship between profanity of music and if that had any effect on the popularity of songs over time.  
+![image](https://github.com/CBrew913/music_analysis_project/blob/Teresa_branch/MachineLearning/Images/LinReg_PercBadWords_Pop_All.PNG)
 
 ## Dashboard
 
