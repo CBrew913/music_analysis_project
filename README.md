@@ -36,20 +36,30 @@ For our lyrics, we used [LyricsGenius](https://lyricsgenius.readthedocs.io/en/ma
 ### Exploration
 The data exploration phase of the project was to determine the true content of the lyrics.  We discovered that there was a header at the beginning of every lyric with the artist and the title of the song.  We knew that would skew our word count data.  We also discovered that at the end of every lyric was a number with embed at the end and would have to remove that.  There was also a random add to buy tickets in the data set, so we knew that would need to be removed.  Overall the data was in the form that we needed it to be with being a string. 
 
-#### Header removal
-![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/header_removal.jpg)
-
 #### Nall removal
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/removing_nan.jpg)
 
+#### Header removal
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/header_removal.jpg)
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/Header_example.jpg)
+
+#### Example of lyric with removals
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/Lyric_example.jpg)
+
 ### Analysis
-During the analysis phase the data was cleaned of all unnecessary characters including the \n, headers, footers, random adds, punctuation and all the null values within the data set.  Once the data was cleaned, we started analyzing the data.  This is where things are getting a little tricky.  We were able to determine the value counts for all the words within the lyrics and place them into their own column.  The harder piece of code is to find all the curse words and place them into their own column.  I was able to get the code to work with finding one instance of the word; however was unable to complete for counting the same word for more than one instance.  Overall, this process is taking longer than expected due to the complexity of natural language processing and counting through the rows.  
+During the analysis phase the data was cleaned of all unnecessary characters including the \n, \r, headers, footers, random adds, punctuation and all the null values within the data set.  Once the data was cleaned, we started analyzing the data.  We were able to determine the value counts for all the words within the lyrics and place them into their own column.  Then, we searched for the curse words and created their own column in the dataframe.  Once all the curse words were counted, the columns were then added together and then devided by the total number of words in the lyric and multiplied by 100 to determine the profanity percentage.   
 
 #### Count total words
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/total_words.jpg)
 
 #### Count Curse words
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/curse_words.jpg)
+
+#### Profanity Percentage
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/total_bad_words.jpg)
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/perc_profanity.jpg)
 
 #### Final Columns
 ![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/final_df.jpg)
@@ -89,6 +99,10 @@ The interactive elements of our dashboard will be gliding over the points on the
 ### Link for Tableau story
 
 [Music Analysis Project](https://public.tableau.com/app/profile/julie.mcdaniel2469/viz/Musicproject/Story1?publish=yes)
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/Story.png)
+
+![image](https://github.com/CBrew913/music_analysis_project/blob/Julie_branch/images/artists.png)
 
 #### References
 1. https://www.loudlab.org/blog/spotify-popularity-leverage-algorithm/#:~:text=What%20is%20Spotify%27s%20Popularity%20Index,on%20algorithmic%20playlists%20and%20recommendations.
